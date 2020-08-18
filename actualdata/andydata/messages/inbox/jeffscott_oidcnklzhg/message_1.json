@@ -1,0 +1,22 @@
+{
+  "participants": [
+    {
+      "name": "Jeff Scott"
+    },
+    {
+      "name": "Andy Kuck"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Jeff Scott",
+      "timestamp_ms": 1500429754461,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Jeff Scott",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/JeffScott_oidcnKLzHg"
+}

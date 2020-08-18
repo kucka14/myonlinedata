@@ -1,0 +1,22 @@
+{
+  "participants": [
+    {
+      "name": "Edmund Castle"
+    },
+    {
+      "name": "Andy Kuck"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Edmund Castle",
+      "timestamp_ms": 1498837261379,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Edmund Castle",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/EdmundCastle_bzkBnO4cSg"
+}

@@ -1,0 +1,46 @@
+{
+  "participants": [
+    {
+      "name": "Michael Gardner"
+    },
+    {
+      "name": "Andy Kuck"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Michael Gardner",
+      "timestamp_ms": 1469222288193,
+      "content": "Nice",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andy Kuck",
+      "timestamp_ms": 1469158262454,
+      "content": "I'm at Valparaiso University, about an hour  away from Chicago. And I wanna teach math - middle school or high school math",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Gardner",
+      "timestamp_ms": 1468989245237,
+      "content": "Thanks man. And that's cool! Which school and what do you want to teach? We should definitely catch up when you are in town",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andy Kuck",
+      "timestamp_ms": 1468987286923,
+      "content": "I'm doing great. I'm in northern Indiana trying to get a teaching degree. Maybe we can catch up some time if I'm back in Ypsi. Congrats on the marriage!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Gardner",
+      "timestamp_ms": 1468931907534,
+      "content": "Hey Andy! Great to hear from you. I'm doing well how are you?",
+      "type": "Generic"
+    }
+  ],
+  "title": "Michael Gardner",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/MichaelGardner_2ICjP55vPg"
+}

@@ -1,0 +1,22 @@
+{
+  "participants": [
+    {
+      "name": "Hannah Freeman-Choi"
+    },
+    {
+      "name": "Andy Kuck"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Hannah Freeman-Choi",
+      "timestamp_ms": 1565019226986,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Hannah Freeman-Choi",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/HannahFreemanChoi_TVqFr0AqFg"
+}

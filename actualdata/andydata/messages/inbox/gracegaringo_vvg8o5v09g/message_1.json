@@ -1,0 +1,34 @@
+{
+  "participants": [
+    {
+      "name": "Grace Garingo"
+    },
+    {
+      "name": "Andy Kuck"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Grace Garingo",
+      "timestamp_ms": 1533046396258,
+      "content": "Hello... thanks for accepting me godbless",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Grace Garingo",
+      "timestamp_ms": 1533046377162,
+      "content": "A contact is waving at you!",
+      "type": "Share"
+    },
+    {
+      "sender_name": "Andy Kuck",
+      "timestamp_ms": 1533045796463,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Grace Garingo",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/GraceGaringo_VvG8o5v09g"
+}

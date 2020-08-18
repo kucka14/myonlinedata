@@ -1,0 +1,110 @@
+{
+  "participants": [
+    {
+      "name": "Donna Rowland"
+    },
+    {
+      "name": "Hal Kilgore"
+    },
+    {
+      "name": "Patty Bird"
+    },
+    {
+      "name": "Daniel Matern"
+    },
+    {
+      "name": "Angela Wehner"
+    },
+    {
+      "name": "June Saavedra"
+    },
+    {
+      "name": "Rachael Neinast"
+    },
+    {
+      "name": "Riley O'Neil"
+    },
+    {
+      "name": "Edmund Castle"
+    },
+    {
+      "name": "Katie Kirk"
+    },
+    {
+      "name": "Benjamin Rosenberger"
+    },
+    {
+      "name": "Hilary Lynne"
+    },
+    {
+      "name": "Dennis Murray"
+    },
+    {
+      "name": "Andy Kuck"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Andy Kuck",
+      "timestamp_ms": 1499971213699,
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Donna Rowland",
+      "timestamp_ms": 1499955904638,
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Angela Wehner",
+      "timestamp_ms": 1499944457160,
+      "content": "Thanks for taking charge of this!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Angela Wehner",
+      "timestamp_ms": 1499944430962,
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Hal Kilgore",
+      "timestamp_ms": 1499916754312,
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Hilary Lynne",
+      "timestamp_ms": 1499914607533,
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "June Saavedra",
+      "timestamp_ms": 1499914571573,
+      "content": "Hi cast mates \u00f0\u009f\u0092\u0097 We are getting Kari-Anne, Jenna, and Auriel director gifts. They will each get a sterling silver boxing glove necklace and a goody bag full of food, sex, money, and sleep items. Ten dollars from each of us should cover it. I will be collecting the money, discretely, over the next week. Thanks! Looking forward to seeing all of you awesome people again soon. xoxo June",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Hilary Lynne"
+        }
+      ],
+      "type": "Generic"
+    }
+  ],
+  "title": "Donna Rowland, Hal Kilgore, Patty Bird and 10 others",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "inbox/DonnaRowlandHalKilgorePattyBirdand10others_u2acTJE69g"
+}

@@ -1,0 +1,46 @@
+{
+  "participants": [
+    {
+      "name": "Matt Spears"
+    },
+    {
+      "name": "Andy Kuck"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Andy Kuck",
+      "timestamp_ms": 1523933717784,
+      "content": "Ok, what about Wednesday next week? And Wednesday this week might also work, but I'll have to let you know tomorrow. And my phone number is 734-263-1911, if that's easier",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Matt Spears",
+      "timestamp_ms": 1523933526966,
+      "content": "I can do any day but Thursday this week:/ I can do any day but Tuesday next week. What day works best for you?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andy Kuck",
+      "timestamp_ms": 1523933209783,
+      "content": "Haha yeah, let's do that. I've missed a few meetups as well, and I'll be out of town and miss it this weekend too. What about meeting somewhere this Thursday? Otherwise sometime next week should work for sure",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Matt Spears",
+      "timestamp_ms": 1523924714465,
+      "content": "Hey, I\u00e2\u0080\u0099ve missed a meetup or two, but was wondering if you\u00e2\u0080\u0099d ever be up for getting a drink after work to discuss writing, life in general, or how difficult it can be to make friends as an adult outside of work ha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andy Kuck",
+      "timestamp_ms": 1522204965756,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Matt Spears",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/MattSpears_y65eUZ6RAg"
+}

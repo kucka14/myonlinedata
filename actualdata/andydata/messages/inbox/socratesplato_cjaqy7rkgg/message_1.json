@@ -1,0 +1,172 @@
+{
+  "participants": [
+    {
+      "name": "Socrates Plato"
+    },
+    {
+      "name": "Andy Kuck"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Socrates Plato",
+      "timestamp_ms": 1564519953680,
+      "content": "You and Socrates Plato are celebrating 2 years of friendship on Facebook",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Socrates Plato",
+      "timestamp_ms": 1536487974044,
+      "content": "Sure, thanks.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andy Kuck",
+      "timestamp_ms": 1536459205791,
+      "content": "Good to hear!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Socrates Plato",
+      "timestamp_ms": 1536011022522,
+      "content": "Busy, but doing fine",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Socrates Plato",
+      "timestamp_ms": 1536011012764,
+      "content": "I am doing well too and the fall semester here is in its 3rd week.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Socrates Plato",
+      "timestamp_ms": 1536010995391,
+      "content": "That is very important.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Socrates Plato",
+      "timestamp_ms": 1536010983336,
+      "content": "Hello Andy! Good to read from you and to know that you are enjoying your teaching.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andy Kuck",
+      "timestamp_ms": 1536006646682,
+      "content": "How are you doing?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andy Kuck",
+      "timestamp_ms": 1536006639733,
+      "content": "I am doing good. I am now three weeks in to the school year. I am teaching 6th grade math. I am busy, but I really like my students. It will be a fun year.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Socrates Plato",
+      "timestamp_ms": 1535905888850,
+      "content": "How are you doing ???",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Socrates Plato",
+      "timestamp_ms": 1535905878401,
+      "content": "Long time now",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Socrates Plato",
+      "timestamp_ms": 1535905868545,
+      "content": "Hello man",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andy Kuck",
+      "timestamp_ms": 1533347690350,
+      "content": "Cool, that sounds like a good opportunity",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Socrates Plato",
+      "timestamp_ms": 1533330043847,
+      "content": "at the ICC",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Socrates Plato",
+      "timestamp_ms": 1533330037819,
+      "content": "We attended a Special Education Summit together",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Socrates Plato",
+      "timestamp_ms": 1533330011422,
+      "content": "Saw Jennifer two and three days back.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Socrates Plato",
+      "timestamp_ms": 1533329980430,
+      "content": "Sure, Andy, I need the rest for sure, before the fall semester starts.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andy Kuck",
+      "timestamp_ms": 1533322110748,
+      "content": "I'll miss you too. And I hope you can also get some good rest before the school year starts",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Socrates Plato",
+      "timestamp_ms": 1533186588567,
+      "content": "I miss you.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Socrates Plato",
+      "timestamp_ms": 1533186571648,
+      "content": "You need all the rest you will have",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Socrates Plato",
+      "timestamp_ms": 1533186561148,
+      "content": "Thank God that your flights went well and that you arrived safely",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Socrates Plato",
+      "timestamp_ms": 1533186547286,
+      "content": "Okayyy",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andy Kuck",
+      "timestamp_ms": 1533045967220,
+      "content": "Yes, my flights went fine. I am back in Michigan. I'll stay here for one week with my parents and siblings who are visiting, and then I will go to Indiana to start teaching there for the year.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Socrates Plato",
+      "timestamp_ms": 1533023410735,
+      "content": "Hope you arrived safely?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Socrates Plato",
+      "timestamp_ms": 1533023403810,
+      "content": "Hello.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andy Kuck",
+      "timestamp_ms": 1532976145556,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Socrates Plato",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/SocratesPlato_CJaqy7Rkgg"
+}

@@ -1,0 +1,58 @@
+{
+  "participants": [
+    {
+      "name": "Taylor Murtonen"
+    },
+    {
+      "name": "Andy Kuck"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Andy Kuck",
+      "timestamp_ms": 1447971472152,
+      "content": "Great! See you then",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Taylor Murtonen",
+      "timestamp_ms": 1447971427255,
+      "content": "Sounds good to me",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andy Kuck",
+      "timestamp_ms": 1447971410688,
+      "content": "If you'll be around, maybe I'll come over around noon on Saturday",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Taylor Murtonen",
+      "timestamp_ms": 1447971133021,
+      "content": "Ok well we should be around regardless! Just let me know when works for you best",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andy Kuck",
+      "timestamp_ms": 1447970759703,
+      "content": "I actually work Saturday evening. What about Sunday? Or else sometime before 3 on Saturday",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Taylor Murtonen",
+      "timestamp_ms": 1447946141937,
+      "content": "That would be great Andy!! We should be here this weekend. Let me see if the Murts will be around so you can see them too. How does Saturday for dinner sound?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andy Kuck",
+      "timestamp_ms": 1447935549629,
+      "content": "Taylor, I realized it's been a while since I seen you and Lily and Cara, and I think we live right next to each other. Let me know if there's a time I could at least stop by, maybe this weekend. If you're busy, no problem. Hope y'all are doing well. Andy",
+      "type": "Generic"
+    }
+  ],
+  "title": "Taylor Murtonen",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/TaylorMurtonen_JbXfs8w-Lg"
+}

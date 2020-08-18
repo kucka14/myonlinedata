@@ -1,0 +1,31 @@
+{
+  "participants": [
+    {
+      "name": "Erin Mae"
+    },
+    {
+      "name": "Aras Karaitis"
+    },
+    {
+      "name": "Andy Kuck"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Aras Karaitis",
+      "timestamp_ms": 1441071929291,
+      "content": "Not really you always had to put your shoulder on the door to lock it, but it wasn't an issue ever",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Erin Mae",
+      "timestamp_ms": 1441071673946,
+      "content": "Hey guys, did you ever have problems with the lock for your trailer? The girls keep saying it is sticking and the key get stuck in teh lock. I've already replaced it 2 times.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Erin Mae and Aras Karaitis",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "inbox/ErinMaeandArasKaraitis_VmgYGRPwiQ"
+}

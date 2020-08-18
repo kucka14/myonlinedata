@@ -1,0 +1,22 @@
+{
+  "participants": [
+    {
+      "name": "Marissa Anne Duppstadt"
+    },
+    {
+      "name": "Andy Kuck"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Marissa Anne Duppstadt",
+      "timestamp_ms": 1529029754397,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Marissa Anne Duppstadt",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/MarissaAnneDuppstadt_mdz5J4TdZQ"
+}

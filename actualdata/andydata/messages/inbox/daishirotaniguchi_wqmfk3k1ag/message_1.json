@@ -1,0 +1,421 @@
+{
+  "participants": [
+    {
+      "name": "Daishiro  Taniguchi"
+    },
+    {
+      "name": "Andy Kuck"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Daishiro  Taniguchi",
+      "timestamp_ms": 1559087373497,
+      "content": "You and Daishiro  Taniguchi are celebrating 5 years of friendship on Facebook",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andy Kuck",
+      "timestamp_ms": 1556574713912,
+      "content": "I see. Well, I hope you are doing well. Good luck if you do apply to a university somewhere.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Daishiro  Taniguchi",
+      "timestamp_ms": 1556443326194,
+      "content": "I am wondering but now I am busy working but I want to try it.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andy Kuck",
+      "timestamp_ms": 1556335026616,
+      "content": "Oh, ok. Are you still going to try to get into a foreign university?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Daishiro  Taniguchi",
+      "timestamp_ms": 1556256012322,
+      "content": "no hahaha im in Japan.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andy Kuck",
+      "timestamp_ms": 1556242045622,
+      "content": "Hi Daishiro! How are you doing? Are you still working in Majuro?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andy Kuck",
+      "timestamp_ms": 1543969498492,
+      "content": "I see",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Daishiro  Taniguchi",
+      "timestamp_ms": 1543969430117,
+      "content": "I think this year is last year for me.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andy Kuck",
+      "timestamp_ms": 1543968357078,
+      "content": "Ok. How much longer will you work at PSS?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Daishiro  Taniguchi",
+      "timestamp_ms": 1543968243691,
+      "content": "I see. its cool !! Yeah, I am planing to go back to Japan and then I will take it again.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andy Kuck",
+      "timestamp_ms": 1543968180416,
+      "content": "Cool. Are you going to take the test again? I'm doing good - I'm teaching 6th grade math in Indiana. I'm planning to visit Aras soon - he lives close to Indiana.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Daishiro  Taniguchi",
+      "timestamp_ms": 1543967954922,
+      "content": "Hey, it was a great time in NZ and I set IELTS but I did not get enough score. I am in Majuro now. What's up ??",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andy Kuck",
+      "timestamp_ms": 1543967846983,
+      "content": "Daishiro, how was your time in New Zealand? Are you back in Majuro now? How did you do on the test?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andy Kuck",
+      "timestamp_ms": 1531522654083,
+      "content": "I could stay and then get key at 3pm, if that works best",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Daishiro  Taniguchi",
+      "timestamp_ms": 1531522490312,
+      "content": "Are you leaving after meeting?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Daishiro  Taniguchi",
+      "timestamp_ms": 1531522475811,
+      "content": "Ummm... I will also meet someone at Tide Table at 3PM.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andy Kuck",
+      "timestamp_ms": 1531522351695,
+      "content": "Yeah, I'm meeting someone at Tide Table in an hour. When is good to pick up the key?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Daishiro  Taniguchi",
+      "timestamp_ms": 1531522180858,
+      "content": "Hello, are you in town?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andy Kuck",
+      "timestamp_ms": 1529041850760,
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic",
+      "ip": "2607:fb90:1ed1:aa95:a6f5:ba24:7f7c:7363"
+    },
+    {
+      "sender_name": "Daishiro  Taniguchi",
+      "timestamp_ms": 1529039521178,
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Daishiro  Taniguchi",
+      "timestamp_ms": 1529039518505,
+      "content": "yes, see you tomorrow !!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andy Kuck",
+      "timestamp_ms": 1529033364315,
+      "content": "Yes, that sounds great. I'll plan to get to MIR at 12 and wait there. So whenever you get there is fine",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Daishiro  Taniguchi",
+      "timestamp_ms": 1528960188492,
+      "content": "Can we meet at the MIR at 12 or 1 ??",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andy Kuck",
+      "timestamp_ms": 1528944253719,
+      "content": "Great! Just let me know where you want to meet and what time",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Daishiro  Taniguchi",
+      "timestamp_ms": 1528917029138,
+      "content": "yes, sure !! lets have a lunch!!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andy Kuck",
+      "timestamp_ms": 1528893162649,
+      "content": "I arrive at 11am on Saturday. And then I'll take a taxi to town, so I could meet you in Delap in the afternoon, if you want",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Daishiro  Taniguchi",
+      "timestamp_ms": 1528760317659,
+      "content": "Hello, Andy !! I am living in Delap. Yeah, we can meet and talk !! What time will you arrive here this Saturday??",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andy Kuck",
+      "timestamp_ms": 1528753678124,
+      "content": "Hi Daishiro! I will arrive in Majuro on Saturday, June 16. Where do you live now? Let me know if we can meet up sometime after I arrive. I want to hear about how you've been doing. And I also want to ask some questions about teaching math - I found out that I will be teaching 2 math classes this summer for the Upward Bound summer school program.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Daishiro  Taniguchi",
+      "timestamp_ms": 1527274167052,
+      "content": "oh, really? ok, im looking forward to seeing you.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andy Kuck",
+      "timestamp_ms": 1527260495546,
+      "content": "Hi Daishiro. I'm just letting you know that I'm coming to Majuro this summer, from June 16 until July 28. I'm teaching a marine biology class in Arrak. Hopefully I can see you sometime when I get there",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Daishiro  Taniguchi",
+      "timestamp_ms": 1517532414310,
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andy Kuck",
+      "timestamp_ms": 1517532407956,
+      "content": "Cool. OK, I will let you know",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Daishiro  Taniguchi",
+      "timestamp_ms": 1517532287429,
+      "content": "If you need help, just let me know.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Daishiro  Taniguchi",
+      "timestamp_ms": 1517532276980,
+      "content": "Yes !!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andy Kuck",
+      "timestamp_ms": 1517532256673,
+      "content": "Are you still working for MOE?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Daishiro  Taniguchi",
+      "timestamp_ms": 1517532215713,
+      "content": "yeah, I want to leave now. hahaha\noh, I see. I will be here.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andy Kuck",
+      "timestamp_ms": 1517531655723,
+      "content": "Haha why 'unfortunately'? Do you want to leave? I'm planning to visit this summer and maybe volunteer somewhere for a one or two months. Will you be in Majuro?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Daishiro  Taniguchi",
+      "timestamp_ms": 1517283980980,
+      "content": "unfortunately...yes. hahaha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andy Kuck",
+      "timestamp_ms": 1517277900368,
+      "content": "Hey Daishiro! How are you doing? Are you still in the Marshalls?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Daishiro  Taniguchi",
+      "timestamp_ms": 1498172298123,
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andy Kuck",
+      "timestamp_ms": 1498163251469,
+      "content": "Cool. Let me know if you decide to move. I'll let you know if I am coming back to visit Marshall. I really don't know what I will do after this year - my plans always change.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Daishiro  Taniguchi",
+      "timestamp_ms": 1498162717899,
+      "content": "We will see!!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Daishiro  Taniguchi",
+      "timestamp_ms": 1498162709326,
+      "content": "I think one or two more years, I'm thinking to move another place.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andy Kuck",
+      "timestamp_ms": 1498162213173,
+      "content": "Yeah, you too. Do you think you will work in Marshall Islands for a long time?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Daishiro  Taniguchi",
+      "timestamp_ms": 1498162142442,
+      "content": "ok, I see. Sounds good !! I hope we will see again someday. Take care \u00e2\u009c\u008b",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andy Kuck",
+      "timestamp_ms": 1498162061872,
+      "content": "Hi. Sorry, I forgot to let you know that I just accepted a job in the U.S. I still want to maybe come back to Marshall sometime. But this job in the U.S. will help me pay for the school I went through. So I will probably stay in the U.S. for at least a couple years. I might try to visit Majuro next summer; I wasn't able to come this summer",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Daishiro  Taniguchi",
+      "timestamp_ms": 1498161714168,
+      "content": "Hello, Andy. How are you doing?\nAre you coming to Marshall soon? or You will work in U.S.?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Daishiro  Taniguchi",
+      "timestamp_ms": 1486690094315,
+      "content": "ok, I see. Goog luck !!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andy Kuck",
+      "timestamp_ms": 1486684159388,
+      "content": "Thanks. I want to teach high school math or science. I want to talk to some schools here before I decide, but I'll let you know",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Daishiro  Taniguchi",
+      "timestamp_ms": 1486612613449,
+      "content": "you can see it, if you really want to apply I can help you.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Daishiro  Taniguchi",
+      "timestamp_ms": 1486612573882,
+      "content": "http://www.pss.edu.mh/index.php/en/news-and-updates/education-news/197-hr001-2017",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Daishiro  Taniguchi",
+      "timestamp_ms": 1486612007320,
+      "content": "I think there will be a job for you.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Daishiro  Taniguchi",
+      "timestamp_ms": 1486610667656,
+      "content": "Hello, Andy !! Long time no see !! Yeah, I'm still working at MOE. Ok, you want to work at High School, right ? what kind of subject ?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andy Kuck",
+      "timestamp_ms": 1486603282813,
+      "content": "Daishiro, how are you? Do you still work for the MOE? I am almost finished with school in the United States. When I finish, I will probably become a teacher in the U.S. But I am thinking of maybe coming back to Marshall instead. Do you think there would be a job for me?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Daishiro  Taniguchi",
+      "timestamp_ms": 1456526424336,
+      "content": "oh, I see !! It's good \u00f0\u009f\u0098\u008a\nYou can work at \u00ef\u00bc\u00adarshall. hahaha\nAnyway I hope you will have great time \u00f0\u009f\u0091\u008d",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andy Kuck",
+      "timestamp_ms": 1456519675434,
+      "content": "In May I start school to become a teacher. It is one year, and then I will teach middle school or high school somewhere. Right now I am living in Michigan and working. Aras got a job close to me, but I haven't visited him yet",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Daishiro  Taniguchi",
+      "timestamp_ms": 1456401677183,
+      "content": "how about you ??\nwhat do you do ??",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Daishiro  Taniguchi",
+      "timestamp_ms": 1456401200209,
+      "content": "kommol tata \u00e2\u009c\u008b",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andy Kuck",
+      "timestamp_ms": 1456401181008,
+      "content": "Jeramon! Good luck over there",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Daishiro  Taniguchi",
+      "timestamp_ms": 1456400995905,
+      "content": "yeah, she helped me all things.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andy Kuck",
+      "timestamp_ms": 1456400948176,
+      "content": "That's great! Are you taking the job of the woman you wrote tests with last year?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Daishiro  Taniguchi",
+      "timestamp_ms": 1456400718484,
+      "content": "I will work at MOE.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andy Kuck",
+      "timestamp_ms": 1456400667892,
+      "content": "I am good. Are you going back to Marshall to visit or to stay?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Daishiro  Taniguchi",
+      "timestamp_ms": 1456289811984,
+      "content": "Oh !!!!!!! Long time no see !! I'm fine !! How about you ??\nApril ?? maybe I'll be not in Japan. I'm going to go back to Marshall on March. Maybe, but thank you for sending E-mail \u00f0\u009f\u0098\u008a",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andy Kuck",
+      "timestamp_ms": 1456280603580,
+      "content": "How are you? Me and my brother are coming to Tokyo in April to visit a friend. Are you still living in Miyazaki? If you are living closer to Tokyo, maybe we will visit you. Miyazaki is maybe too far to travel, because we are only in Japan for nine days.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andy Kuck",
+      "timestamp_ms": 1456280378969,
+      "content": "Daishiro,",
+      "type": "Generic"
+    }
+  ],
+  "title": "Daishiro  Taniguchi",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/DaishiroTaniguchi_wQMFK3k1Ag"
+}

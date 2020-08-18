@@ -1,0 +1,114 @@
+{
+  "participants": [
+    {
+      "name": "The Wright Baker"
+    },
+    {
+      "name": "Andy Kuck"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "The Wright Baker",
+      "timestamp_ms": 1474771070847,
+      "content": "Hi, Andy! Sure, no problem. I'll have a loaf of sourdough ready for you Monday at Extra Mile, 6pm. Thank you for the opportunity to bake for you! Hope classes/student teaching is going well!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "The Wright Baker",
+      "timestamp_ms": 1474755184602,
+      "content": "Thanks for being hungry! The Wright Baker tries to be as responsive as possible. As soon as the bread is out of the oven, I'll get back to you.\n\nLooking for the menu/pricing? Please have a look at our page under the Notes section.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andy Kuck",
+      "timestamp_ms": 1474755184298,
+      "content": "Leeann, I'll buy a loaf of sourdough on Monday, if that works. I can pick it up at 6pm running if you'll be there. Or at your house sometime between 3 and 630pm. Or whatever other day works. Thanks. Andy",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "The Wright Baker",
+      "timestamp_ms": 1473165004115,
+      "content": "That will work perfectly! See you then! My mobile is 574-242-0659 - \"just in case\" :)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andy Kuck",
+      "timestamp_ms": 1473164468376,
+      "content": "I'll plan on swinging by 1707 at about 4pm today. Let me know if that won't work.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "The Wright Baker",
+      "timestamp_ms": 1473133096999,
+      "content": "No worries! Absolutely tomorrow! Would you like to meet at Extra Mile, or swing by my \"roadside stand\" (a.k.a. The end of my driveway) at 1707 Franklin St.? I'll be home by 3pm tomorrow.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andy Kuck",
+      "timestamp_ms": 1473131821739,
+      "content": "Sorry. Just seeing the message now. Can I pick up order sometime tomorrow after 245pm?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "The Wright Baker",
+      "timestamp_ms": 1473108239657,
+      "content": "Hi, Andy! Are you planning to run this evening? I think I may skip the run, but would be happy to meet you at the shop-your order is almost ready! :)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "The Wright Baker",
+      "timestamp_ms": 1472672394747,
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andy Kuck",
+      "timestamp_ms": 1472666571562,
+      "content": "Sounds good!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "The Wright Baker",
+      "timestamp_ms": 1472611657502,
+      "content": "Hi! No worries-I figured you were probably held up. No need to pay - my hubby cracked into them yesterday! \u00f3\u00be\u008d\u0087 I will have a fresh order for you this coming Monday. If you get held up again, we can arrange a puck-up on Tuesday, no prob! \u00f3\u00be\u008c\u00b5",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "The Wright Baker",
+      "timestamp_ms": 1472610111366,
+      "content": "Thanks for being hungry! The Wright Baker tries to be as responsive as possible. As soon as the bread is out of the oven, I'll get back to you.\n\nLooking for the menu/pricing? Please have a look at our page under the Notes section.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andy Kuck",
+      "timestamp_ms": 1472610111202,
+      "content": "Leeann, so sorry I wasn't able to pick up the bread; I was stuck on campus with something for school. Can I still pick up the order somewhere? Otherwise, I still would like English muffins for this coming Monday, if that's possible. I'll make sure I'm there, and I'll of course also pay for the ones I didn't pick up.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "The Wright Baker",
+      "timestamp_ms": 1472417142641,
+      "content": "Hi, Andy! I would be delighted to bake for you! I'll have a double order ready for you tomorrow. Total will be $10, cash or check payable to \"Leeann Wright DBA The Wright Baker\" please. Thank you for the opportunity to bake for you! \u00f3\u00be\u008c\u00b5\u00f3\u00be\u00a5\u00a4\u00f3\u00be\u00ac\u008f",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "The Wright Baker",
+      "timestamp_ms": 1472304328694,
+      "content": "Thanks for being hungry! The Wright Baker tries to be as responsive as possible. As soon as the bread is out of the oven, I'll get back to you.\n\nLooking for the menu/pricing? Please have a look at our page under the Notes section.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andy Kuck",
+      "timestamp_ms": 1472304328396,
+      "content": "This is Andy, from the Monday running group. If there are any English muffins available to pick up this Monday or the next Monday, I will buy a double order. Thanks",
+      "type": "Generic"
+    }
+  ],
+  "title": "The Wright Baker",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/TheWrightBaker_GaeLy1P7Cw"
+}

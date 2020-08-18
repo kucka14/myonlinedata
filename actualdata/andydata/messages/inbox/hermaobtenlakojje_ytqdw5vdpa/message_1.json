@@ -1,0 +1,22 @@
+{
+  "participants": [
+    {
+      "name": "Herma Obten Lakojje"
+    },
+    {
+      "name": "Andy Kuck"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Andy Kuck",
+      "timestamp_ms": 1479302954263,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Herma Obten Lakojje",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/HermaObtenLakojje_YtqDW5VDPA"
+}

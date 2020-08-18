@@ -1,0 +1,40 @@
+{
+  "participants": [
+    {
+      "name": "Hannah Butler"
+    },
+    {
+      "name": "Andy Kuck"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Andy Kuck",
+      "timestamp_ms": 1513312486417,
+      "content": "Haha I hope not. Although most of what I know about present giving is from white elephant gift exchanges and episodes of Seinfeld.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Hannah Butler",
+      "timestamp_ms": 1513221377703,
+      "content": "Hey Andy! Hmm, I\u00e2\u0080\u0099ll have to think about it. Nothing comes to mind right away. You\u00e2\u0080\u0099re sweet to ask! I\u00e2\u0080\u0099m sure whatever you get her couldn\u00e2\u0080\u0099t be completely off the mark!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andy Kuck",
+      "timestamp_ms": 1513220175549,
+      "content": "Hannah, I wish I didn't have an ulterior motive for sending you a friend request, but I do. I want to get Marit a Christmas present, and I've got some ideas, but I was just gonna check with you if there's something you know she wants, or if there's something I absolutely shouldn't get her. If you don't really have anything to tell me, no problem. I'm just really bad at buying presents, so I thought I'd ask",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andy Kuck",
+      "timestamp_ms": 1513218435667,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Hannah Butler",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/HannahButler_Sc5mQsz2ZA"
+}

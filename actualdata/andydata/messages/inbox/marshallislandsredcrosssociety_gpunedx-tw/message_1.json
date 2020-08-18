@@ -1,0 +1,34 @@
+{
+  "participants": [
+    {
+      "name": "Marshall Islands Red Cross Society"
+    },
+    {
+      "name": "Andy Kuck"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Andy Kuck",
+      "timestamp_ms": 1519083689839,
+      "content": "I will do that. Thanks!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Marshall Islands Red Cross Society",
+      "timestamp_ms": 1519074955726,
+      "content": "HI Andy, we have no paid positions available but we do like having people helping out in our office and on working other projects on a volunteer basis, just contact us when you get here.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andy Kuck",
+      "timestamp_ms": 1519069977102,
+      "content": "Iakwe! My name is Andy. I am an American who will be in the Marshall Islands from the middle of June until the end of July this year. 3 years ago I spent a year teaching at Laura High School. I was wondering if there is any paid or volunteer work that might be available during that time. I have a little medical experience. I do not speak very good Marshallese, but I will be working on it before I come. Let me know. Thanks!",
+      "type": "Generic"
+    }
+  ],
+  "title": "Marshall Islands Red Cross Society",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/MarshallIslandsRedCrossSociety_GpuneDx-Tw"
+}

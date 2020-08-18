@@ -1,0 +1,34 @@
+{
+  "participants": [
+    {
+      "name": "Dysontre Edrft Kanekoiy"
+    },
+    {
+      "name": "Andy Kuck"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Dysontre Edrft Kanekoiy",
+      "timestamp_ms": 1477302646903,
+      "content": "yes",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andy Kuck",
+      "timestamp_ms": 1477282823085,
+      "content": "Yes, I remember you. So are you in 9th grade this year?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Dysontre Edrft Kanekoiy",
+      "timestamp_ms": 1477103618386,
+      "content": "hello andy is me dyson remember me running with you all saturday",
+      "type": "Generic"
+    }
+  ],
+  "title": "Dysontre Edrft Kanekoiy",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/DysontreEdrftKanekoiy_SkXQrWw5hA"
+}

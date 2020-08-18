@@ -1,0 +1,22 @@
+{
+  "participants": [
+    {
+      "name": "Lolin Mercyla"
+    },
+    {
+      "name": "Andy Kuck"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Lolin Mercyla",
+      "timestamp_ms": 1564804498889,
+      "content": "You and Lolin Mercyla are celebrating 5 years of friendship on Facebook",
+      "type": "Generic"
+    }
+  ],
+  "title": "Lolin Mercyla",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/LolinMercyla_oSngDkLHvg"
+}

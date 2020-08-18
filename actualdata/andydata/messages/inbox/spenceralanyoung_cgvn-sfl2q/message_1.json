@@ -1,0 +1,52 @@
+{
+  "participants": [
+    {
+      "name": "Spencer Alan Young"
+    },
+    {
+      "name": "Andy Kuck"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Andy Kuck",
+      "timestamp_ms": 1453766274269,
+      "content": "Awesome! I'll come as often as I can. Thanks for letting me know.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Spencer Alan Young",
+      "timestamp_ms": 1453766070942,
+      "content": "Ok starting 2/2/16 we are playing every Tuesday at 630. At ST Luke's",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andy Kuck",
+      "timestamp_ms": 1453766022012,
+      "content": "Yeah. I'm not positive that I could come Feb 2, but I'm always interested in pick-up basketball",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Spencer Alan Young",
+      "timestamp_ms": 1453765399514,
+      "content": "We are starting basketball on February 2nd. Are you interested?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andy Kuck",
+      "timestamp_ms": 1453763794825,
+      "content": "My email is kucka@mail.gvsu.edu. I'm living in Ypsi right now.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Spencer Alan Young",
+      "timestamp_ms": 1453740039971,
+      "content": "Hey can you send me your email? Are you in the Ann Arbor area?",
+      "type": "Generic"
+    }
+  ],
+  "title": "Spencer Alan Young",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/SpencerAlanYoung_cGvN-SFL2Q"
+}

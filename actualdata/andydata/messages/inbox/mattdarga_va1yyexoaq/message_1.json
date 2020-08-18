@@ -1,0 +1,52 @@
+{
+  "participants": [
+    {
+      "name": "Matt Darga"
+    },
+    {
+      "name": "Andy Kuck"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Matt Darga",
+      "timestamp_ms": 1443475395656,
+      "content": "Ok ill talk to my wife and see when the best day will be, my number is 3134608837",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andy Kuck",
+      "timestamp_ms": 1443465561578,
+      "content": "I could come over next Monday or Tuesday. Or probably Monday, Tuesday, or Thursday of the following week. Also, can you give me your number? I lost my old phone. My number's still the same.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Matt Darga",
+      "timestamp_ms": 1443294497664,
+      "content": "Perfff",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andy Kuck",
+      "timestamp_ms": 1443287811914,
+      "content": "That sounds great. I get my work schedule on Monday, and then I'll let you know when I could come over.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Matt Darga",
+      "timestamp_ms": 1443142183116,
+      "content": "Hey man, yeah I live in Plymouth, you should come over for dinner! Any monday tuesday or thursday usually works for us!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andy Kuck",
+      "timestamp_ms": 1443055342354,
+      "content": "Hey Matt. It's Andy. Just wondering if we could meet up sometime. You're living out near Ann Arbor, right? I don't know how busy you are, but just let me know if something might work.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Matt Darga",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/MattDarga_vA1yyexOaQ"
+}

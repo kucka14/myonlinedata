@@ -1,0 +1,46 @@
+{
+  "participants": [
+    {
+      "name": "Stephen Falke"
+    },
+    {
+      "name": "Andy Kuck"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Stephen Falke",
+      "timestamp_ms": 1470229795149,
+      "content": "Lol haha! Thank you!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andy Kuck",
+      "timestamp_ms": 1470198080228,
+      "content": "I'll plan my future messages accordingly. By the way, Merry Christmas!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Stephen Falke",
+      "timestamp_ms": 1469967865005,
+      "content": "Lol for some reason didn't get this msg till now lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Stephen Falke",
+      "timestamp_ms": 1469967835544,
+      "content": "You can now call each other and see information like Active Status and when you've read messages.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andy Kuck",
+      "timestamp_ms": 1458170643420,
+      "content": "Steve,\nThis is Andy Kuck, Jason's brother. I will be coming to Japan with Jason, and maybe doing some hiking with you and him. \nI actually get to Tokyo a week before Jason, on April 14. I was thinking of maybe doing some backpacking in the Kamikochi area before Jason arrives (I don't want to spend much money during that first week). Jason, though, thought you might have ideas of your own for stuff to do around Nagoya or elsewhere, and that maybe you would be taking time off of work. If you are interested in anything like that, and if I could come to your place before Jason was planning to, let me know. Otherwise, I'll do some hiking on my own, and meet up with you at the same time as Jason.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Stephen Falke",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/StephenFalke_mCFDzhjphQ"
+}

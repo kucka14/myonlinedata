@@ -1,0 +1,22 @@
+{
+  "participants": [
+    {
+      "name": "Marsha Jordan"
+    },
+    {
+      "name": "Andy Kuck"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Marsha Jordan",
+      "timestamp_ms": 1493090239407,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Marsha Jordan",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/MarshaJordan_nb5ONsbSaA"
+}

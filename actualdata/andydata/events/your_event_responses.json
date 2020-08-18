@@ -1,0 +1,50 @@
+{
+  "event_responses": {
+    "events_joined": [
+      {
+        "name": "Mom/Grandma Pats 90th Birthday",
+        "start_timestamp": 1571457600,
+        "end_timestamp": 1571543700
+      },
+      {
+        "name": "Kuck Family at Lake",
+        "start_timestamp": 1561838400,
+        "end_timestamp": 1562515200
+      },
+      {
+        "name": "CST's Shakespeare in the Park: Taming of the Shrew July 7 & 8",
+        "start_timestamp": 1499463000,
+        "end_timestamp": 1499571000
+      },
+      {
+        "name": "Cystic Fibrosis Cycle for Life",
+        "start_timestamp": 1471690800,
+        "end_timestamp": 0
+      },
+      {
+        "name": "Kuck Family Get Together",
+        "start_timestamp": 1465596000,
+        "end_timestamp": 1466352000
+      }
+    ],
+    "events_declined": [
+      {
+        "name": "4th of July Float!!!",
+        "start_timestamp": 1467655200,
+        "end_timestamp": 0
+      },
+      {
+        "name": "DCO: The Force Awakens",
+        "start_timestamp": 1450656000,
+        "end_timestamp": 1450666800
+      }
+    ],
+    "events_interested": [
+      {
+        "name": "\"The end of women inhabiting the Menagerie\" brunch",
+        "start_timestamp": 1437926400,
+        "end_timestamp": 0
+      }
+    ]
+  }
+}

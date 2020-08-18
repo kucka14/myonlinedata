@@ -1,0 +1,22 @@
+{
+  "participants": [
+    {
+      "name": "Ruthina Tina Hanerg"
+    },
+    {
+      "name": "Andy Kuck"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Ruthina Tina Hanerg",
+      "timestamp_ms": 1481404929631,
+      "content": "Hmmmm thanks for the accepted",
+      "type": "Generic"
+    }
+  ],
+  "title": "Ruthina Tina Hanerg",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/RuthinaTinaHanerg_mgCZ8MGWog"
+}

@@ -1,0 +1,22 @@
+{
+  "participants": [
+    {
+      "name": "June Saavedra"
+    },
+    {
+      "name": "Andy Kuck"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Andy Kuck",
+      "timestamp_ms": 1498484717830,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "June Saavedra",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/JuneSaavedra_pzXvJvbU0g"
+}

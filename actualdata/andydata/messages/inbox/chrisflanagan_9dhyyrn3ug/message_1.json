@@ -1,0 +1,158 @@
+{
+  "participants": [
+    {
+      "name": "Chris Flanagan"
+    },
+    {
+      "name": "Andy Kuck"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Andy Kuck",
+      "timestamp_ms": 1462973378078,
+      "content": "Also, since I might not see you for a few weeks: I'm trying to raise money for a bicycle race this summer, where the money goes to the Cystic Fibrosis Foundation. My sister got diagnosed with CF last year; she and the rest of us felt compelled to do something, so we started a fundraising team. If you want, you can give money to one of the bicycle riders on our team (it doesn't really matter who because all the money goes to the same place anyway). Or you could sign up to ride; it should be fun. It happens to be in Ann Arbor this year. Here's the website, if you're interested: http://fightcf.cff.org/goto/teamsweatquest",
+      "share": {
+        "link": "http://fightcf.cff.org/site/TR?team_id=53285&fr_id=5392&pg=team"
+      },
+      "type": "Share",
+      "ip": "2602:304:ccc0:7080:7818:12e:b689:5f08"
+    },
+    {
+      "sender_name": "Chris Flanagan",
+      "timestamp_ms": 1462898538867,
+      "content": "For sure do",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andy Kuck",
+      "timestamp_ms": 1462890371971,
+      "content": "Not really sure yet. But I'll let you know",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Chris Flanagan",
+      "timestamp_ms": 1462869191692,
+      "content": "Sorry about that bro. When are you planning on getting back into town?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andy Kuck",
+      "timestamp_ms": 1462816167184,
+      "content": "No, I can't wait til Saturday. I guess maybe I'll just let you know next time I'm visiting Ypsi. It might not actually be that long.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Chris Flanagan",
+      "timestamp_ms": 1462786891742,
+      "content": "I'm having a game night Friday night. Could you push the leave time until Saturday?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andy Kuck",
+      "timestamp_ms": 1462763223731,
+      "content": "Let me know if you wanna hang out in the next couple days. I leave for Indiana Thursday.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Chris Flanagan",
+      "timestamp_ms": 1459442297217,
+      "content": "Cool! Same place.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andy Kuck",
+      "timestamp_ms": 1459433703692,
+      "content": "Yeah, sounds good. I would be able to come that",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Chris Flanagan",
+      "timestamp_ms": 1459413137865,
+      "content": "Can't this weekend. I have drill. I was thinking about having another game night the aiming Monday at 7. Do you have that night open?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andy Kuck",
+      "timestamp_ms": 1459372869279,
+      "content": "You wanna mountain bike this Saturday? And can you text me or give me your number? My phone broke, and I lost contacts I had recently added",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Chris Flanagan",
+      "timestamp_ms": 1458385964238,
+      "content": "Do you want to hike at gallop park?",
+      "photos": [
+        {
+          "uri": "messages/inbox/ChrisFlanagan_9dHYyrn3Ug/photos/12834495_10156615996390335_1508502971_n_10156615996390335.jpg",
+          "creation_timestamp": 1458385963
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Chris Flanagan",
+      "timestamp_ms": 1458355342820,
+      "content": "I'll be up by 6:30. I'll shoot you a message around then. But that sounds good. We could do something at 8am",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andy Kuck",
+      "timestamp_ms": 1458355099827,
+      "content": "What about 8 (or earlier)? There's something I might want to get to by 10. I can pick up some donuts or something and meet you there. And my number's 7346491650. I thought I had yours, but apparently not, so text or call me at some point, if you can.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Chris Flanagan",
+      "timestamp_ms": 1458350993503,
+      "content": "Well how about 9 now?  I'm open until 11am.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Chris Flanagan",
+      "timestamp_ms": 1458348921127,
+      "content": "How about 8am?  We could hike in the arb or something.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Chris Flanagan",
+      "timestamp_ms": 1458343995382,
+      "content": "Does 6am work?  Breakfast in the arb!!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andy Kuck",
+      "timestamp_ms": 1458340276897,
+      "content": "Yeah. And any time in the morning works for me. Where at?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Chris Flanagan",
+      "timestamp_ms": 1458324953722,
+      "content": "You up for a early hike tomorrow with breakfast?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Chris Flanagan",
+      "timestamp_ms": 1457995686919,
+      "content": "Cool man. See you in a bit!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andy Kuck",
+      "timestamp_ms": 1457984507725,
+      "content": "That sounds like fun. I'll be there",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Chris Flanagan",
+      "timestamp_ms": 1457975069397,
+      "content": "Hey Andy do you have any plans tonight around 7:30? There will be a game night at the corner brewery tonight.  Happy birthday!",
+      "type": "Generic"
+    }
+  ],
+  "title": "Chris Flanagan",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/ChrisFlanagan_9dHYyrn3Ug"
+}

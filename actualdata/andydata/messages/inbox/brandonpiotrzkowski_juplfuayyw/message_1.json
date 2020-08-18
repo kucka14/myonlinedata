@@ -1,0 +1,40 @@
+{
+  "participants": [
+    {
+      "name": "Brandon Piotrzkowski"
+    },
+    {
+      "name": "Andy Kuck"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Brandon Piotrzkowski",
+      "timestamp_ms": 1438307120003,
+      "content": "K sounds great",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andy Kuck",
+      "timestamp_ms": 1437842044528,
+      "content": "I'm sure I'll be back in GR again before long. My number's 7346491650. Hope you're enjoying the research. Take care",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Brandon Piotrzkowski",
+      "timestamp_ms": 1437781906843,
+      "content": "HEY ANDY! I would love to hang out but unfortunately I'm in Mississippi doing research in physics for the next couple weeks still. I also no longer remember your  number (or most anyone elses' -_-) as I just got a new phone recently. However, if you ever come back to GR in the future, feel free to message me up.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andy Kuck",
+      "timestamp_ms": 1437749183588,
+      "content": "Brandon, I'm gonna be in GR this weekend. Will you be somewhere around there? Maybe we could hang out. I could maybe drive out to Grand Haven, if that's where you are. At any rate, text me so that I have your number; I lost my phone. But my number's still the same. Andy",
+      "type": "Generic"
+    }
+  ],
+  "title": "Brandon Piotrzkowski",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/BrandonPiotrzkowski_jUplFuaYyw"
+}

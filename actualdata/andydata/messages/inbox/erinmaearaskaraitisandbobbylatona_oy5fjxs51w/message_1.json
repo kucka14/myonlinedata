@@ -1,0 +1,28 @@
+{
+  "participants": [
+    {
+      "name": "Erin Mae"
+    },
+    {
+      "name": "Aras Karaitis"
+    },
+    {
+      "name": "Bobby Latona"
+    },
+    {
+      "name": "Andy Kuck"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Erin Mae",
+      "timestamp_ms": 1426790878084,
+      "content": "Hey Laura boys! What are you guys up to this weekend? Would any of you like to go to Eneko Saturday? I really want to get some prime swimming in. That or I was considering coming out to Laura if you guys were going to be around.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Erin Mae, Aras Karaitis and Bobby Latona",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "inbox/ErinMaeArasKaraitisandBobbyLatona_OY5fJxS51w"
+}

@@ -1,0 +1,40 @@
+{
+  "participants": [
+    {
+      "name": "Donald Jibbwa"
+    },
+    {
+      "name": "Andy Kuck"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Donald Jibbwa",
+      "timestamp_ms": 1596297198635,
+      "content": "You and Donald Jibbwa are celebrating 1 year of friendship on Facebook",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andy Kuck",
+      "timestamp_ms": 1570838989815,
+      "content": "Hi Donald",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Donald Jibbwa",
+      "timestamp_ms": 1570837042872,
+      "content": "Hollow Andy",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Donald Jibbwa",
+      "timestamp_ms": 1564690576458,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Donald Jibbwa",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/DonaldJibbwa_qSJT3UJJIg"
+}

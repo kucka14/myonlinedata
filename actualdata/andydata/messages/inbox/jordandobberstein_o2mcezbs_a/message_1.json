@@ -1,0 +1,46 @@
+{
+  "participants": [
+    {
+      "name": "Jordan Dobberstein"
+    },
+    {
+      "name": "Andy Kuck"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Jordan Dobberstein",
+      "timestamp_ms": 1444415678408,
+      "content": "Thanks, have fun riding",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andy Kuck",
+      "timestamp_ms": 1444414297585,
+      "content": "ok. have fun there",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jordan Dobberstein",
+      "timestamp_ms": 1444413149948,
+      "content": "That sounds awesome, but I'll be in Frakenmuth!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andy Kuck",
+      "timestamp_ms": 1444409577894,
+      "content": "You wanna go biking somewhere around GR tomorrow with me and  Kyle?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andy Kuck",
+      "timestamp_ms": 1437591550729,
+      "content": "Jordan, it's Andy. I was just wondering if you are living in GR and if I could maybe stay there this weekend. If not, maybe we could still meet up somewhere else. Just let me know. My phone number's the same, but I lost my old phone and don't have your number.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Jordan Dobberstein",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/JordanDobberstein_O2MCeZBS_A"
+}

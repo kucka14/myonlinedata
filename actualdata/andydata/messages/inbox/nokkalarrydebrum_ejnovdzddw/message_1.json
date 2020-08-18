@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Nokka Larry Debrum"
+    },
+    {
+      "name": "Andy Kuck"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Nokka Larry Debrum",
+      "timestamp_ms": 1529117153981,
+      "content": "Nokka is waving at you!",
+      "type": "Share"
+    },
+    {
+      "sender_name": "Nokka Larry Debrum",
+      "timestamp_ms": 1487738992311,
+      "content": "heyy Anty its me Lastly one of your runners \u00f0\u009f\u008f\u0083 in laura track team",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Nokka Larry Debrum",
+      "timestamp_ms": 1487738929916,
+      "content": "You missed a video chat with Nokka.",
+      "call_duration": 0,
+      "type": "Call",
+      "missed": true
+    }
+  ],
+  "title": "Nokka Larry Debrum",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/NokkaLarryDebrum_EjNovDzDdw"
+}

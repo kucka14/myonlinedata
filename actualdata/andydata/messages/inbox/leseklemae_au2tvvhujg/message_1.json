@@ -1,0 +1,22 @@
+{
+  "participants": [
+    {
+      "name": "Lesek Lemae"
+    },
+    {
+      "name": "Andy Kuck"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Lesek Lemae",
+      "timestamp_ms": 1563075397106,
+      "content": "You and Lesek Lemae are celebrating 3 years of friendship on Facebook",
+      "type": "Generic"
+    }
+  ],
+  "title": "Lesek Lemae",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/LesekLemae_Au2TVVHuJg"
+}

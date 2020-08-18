@@ -1,0 +1,180 @@
+{
+  "participants": [
+    {
+      "name": "Katie Lawrence"
+    },
+    {
+      "name": "Michael Sterling"
+    },
+    {
+      "name": "Lexa Alva"
+    },
+    {
+      "name": "Erica Fogleman"
+    },
+    {
+      "name": "Kaylyn Banaszak"
+    },
+    {
+      "name": "Tori Tamburrino"
+    },
+    {
+      "name": "Kristen Cunningham"
+    },
+    {
+      "name": "Bethany Weiss"
+    },
+    {
+      "name": "Kathleen Greiwe"
+    },
+    {
+      "name": "Breanna Marie"
+    },
+    {
+      "name": "Brittany Quinn"
+    },
+    {
+      "name": "Andy Kuck"
+    },
+    {
+      "name": "Ricky Ramos"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Brittany Quinn",
+      "timestamp_ms": 1494880274589,
+      "content": "We'll just meet you at grad grill. Everything else is closed in Chesterton so we're already at the winery.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ricky Ramos",
+      "timestamp_ms": 1494878311541,
+      "content": "Ricky Ramos added Michael Sterling to the group.",
+      "type": "Subscribe",
+      "users": [
+        {
+          "name": "Michael Sterling"
+        }
+      ]
+    },
+    {
+      "sender_name": "Ricky Ramos",
+      "timestamp_ms": 1494878252205,
+      "content": "I have to finish cleaning my classroom for tomorrow",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ricky Ramos",
+      "timestamp_ms": 1494878212343,
+      "content": "Can I still make it in time if I arrive around 4?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kristen Cunningham",
+      "timestamp_ms": 1494878204589,
+      "content": "Exactly",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ricky Ramos",
+      "timestamp_ms": 1494878191373,
+      "content": "I just finished student teaching lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bethany Weiss",
+      "timestamp_ms": 1494878168265,
+      "content": "Yes! Meet us there! \nButler Winery Chesterton\n401 Broadway\nChesterton, IN 46304",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ricky Ramos",
+      "timestamp_ms": 1494878034791,
+      "content": "Is this today?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Erica Fogleman",
+      "timestamp_ms": 1494871427341,
+      "content": "I would go!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Lexa Alva",
+      "timestamp_ms": 1494870140700,
+      "content": "I can't either ): Enjoy for me!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Katie Lawrence",
+      "timestamp_ms": 1494870099220,
+      "content": "Ugh! I wish too but I'm taking someone to the airport! \u00f0\u009f\u0098\u009e",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Brittany Quinn",
+      "timestamp_ms": 1494869982630,
+      "content": "Brittany Quinn added Katie Lawrence to the group.",
+      "type": "Subscribe",
+      "users": [
+        {
+          "name": "Katie Lawrence"
+        }
+      ]
+    },
+    {
+      "sender_name": "Brittany Quinn",
+      "timestamp_ms": 1494869947647,
+      "content": "Brittany Quinn removed Adam Bruno from the group.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Adam Bruno"
+        }
+      ]
+    },
+    {
+      "sender_name": "Brittany Quinn",
+      "timestamp_ms": 1494869679534,
+      "content": "Brittany Quinn added you and 3 others to the group.",
+      "type": "Subscribe",
+      "users": [
+        {
+          "name": "Adam Bruno"
+        },
+        {
+          "name": "Kaylyn Banaszak"
+        },
+        {
+          "name": "Tori Tamburrino"
+        },
+        {
+          "name": "Andy Kuck"
+        }
+      ]
+    },
+    {
+      "sender_name": "AJ Bouwma",
+      "timestamp_ms": 1494869623757,
+      "content": "Ugh, I want to but I can't!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Brittany Quinn",
+      "timestamp_ms": 1494869340959,
+      "content": "We will use this group message to figure out who all is going/carpooling",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Brittany Quinn",
+      "timestamp_ms": 1494869322990,
+      "content": "Hi! Add people who want to go wine tasting!\nLeave at: 2:30\nReturn at: 6 for grad grill\n-Need drivers who have high tolerance levels haha (I will totally buy you wine to make up for it though) \n-Butler Winery in Chesterton (20 min drive) \n-walk around downtown Chesterton and drink wine!",
+      "type": "Generic"
+    }
+  ],
+  "title": "Katie Lawrence, Michael Sterling, Lexa Alva and 9 others",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "inbox/KatieLawrenceMichaelSterlingLexaAlvaand9others_j66M__0n3A"
+}

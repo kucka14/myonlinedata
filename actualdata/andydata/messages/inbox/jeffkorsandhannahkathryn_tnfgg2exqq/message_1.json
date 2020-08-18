@@ -1,0 +1,67 @@
+{
+  "participants": [
+    {
+      "name": "Jeff Kors"
+    },
+    {
+      "name": "Hannah Kathryn"
+    },
+    {
+      "name": "Andy Kuck"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Jeff Kors",
+      "timestamp_ms": 1535680190864,
+      "content": "I knew people that got a VIP card after going there enough. You should enquire about that \u00f0\u009f\u008d\u00a6",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Hannah Kathryn"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Hannah Kathryn",
+      "timestamp_ms": 1535680162677,
+      "content": "Ok it\u00e2\u0080\u0099s not daily \u00f0\u009f\u0098\u0082",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jeff Kors",
+      "timestamp_ms": 1535680140438,
+      "content": "Daily ice cream fix lol",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Hannah Kathryn"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Hannah Kathryn",
+      "timestamp_ms": 1535680123033,
+      "content": "Thanks for the invite. I just got Culver\u00e2\u0080\u0099s lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jeff Kors",
+      "timestamp_ms": 1535679577097,
+      "content": "Went to Ricochet for a tap takeover if anyone is still thirsty or hungry after",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jeff Kors",
+      "timestamp_ms": 1535679576606,
+      "content": "Jeff created the group.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Jeff Kors and Hannah Kathryn",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "inbox/JeffKorsandHannahKathryn_tNFgg2EXqQ"
+}

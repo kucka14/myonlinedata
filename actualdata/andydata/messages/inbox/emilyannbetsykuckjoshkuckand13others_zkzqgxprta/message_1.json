@@ -1,0 +1,193 @@
+{
+  "participants": [
+    {
+      "name": "Emily Ann"
+    },
+    {
+      "name": "Betsy Kuck"
+    },
+    {
+      "name": "Josh Kuck"
+    },
+    {
+      "name": "Evan Kuck"
+    },
+    {
+      "name": "Mary Kuck"
+    },
+    {
+      "name": "Larry Baas"
+    },
+    {
+      "name": "Holly Lee Kuck"
+    },
+    {
+      "name": "Darron Jalbert"
+    },
+    {
+      "name": "Sarah Jalbert"
+    },
+    {
+      "name": "Sue Loesel Kuck"
+    },
+    {
+      "name": "Ben Kuck"
+    },
+    {
+      "name": "David Kuck"
+    },
+    {
+      "name": "Ann Baas"
+    },
+    {
+      "name": "Jason Kuck"
+    },
+    {
+      "name": "Andy Kuck"
+    },
+    {
+      "name": "Christa Kuck"
+    },
+    {
+      "name": "Laurie Kuck"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Mary Kuck",
+      "timestamp_ms": 1499889318295,
+      "content": "Christa and Jason we will miss you! Evan, hope we get there in time to get a glimpse of you!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Christa Kuck",
+      "timestamp_ms": 1499773065712,
+      "content": "I won't be able to make it either!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Evan Kuck",
+      "timestamp_ms": 1499734840245,
+      "content": "I will be up on Friday and will be taking a vacation day to stay through Monday the 17th. Unfortunately, that's all I can do currently. I will be bringing things like pop, water, and beer for the household",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sue Loesel Kuck",
+      "timestamp_ms": 1499727232305,
+      "content": "We will miss you!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jason Kuck",
+      "timestamp_ms": 1499727187377,
+      "content": "I tried, but unfortunately couldn't get any time off from a training I'm doing this month. Wish I could be there!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andy Kuck",
+      "timestamp_ms": 1499627164171,
+      "content": "I am planning to come up Sunday evening",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Holly Lee Kuck",
+      "timestamp_ms": 1499617529026,
+      "content": "Josh and I will be there Friday night late",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sue Loesel Kuck",
+      "timestamp_ms": 1499548421165,
+      "content": "Ok, we can go up on Friday. If that works for anyone please let me know.  Sorry for the confusion.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sue Loesel Kuck",
+      "timestamp_ms": 1499467110660,
+      "content": "Don't make any plans for early arrival yet.  Have a potential rental change in the works.  Stay tuned.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sue Loesel Kuck",
+      "timestamp_ms": 1499465264624,
+      "content": "New information:  schedule change that allows arrival on Friday, 7/14/17 but we must be out by Saturday 7/22/17 at 10 am for cleaning crew to get ready for renters  arriving that day.  Kurt (and probably I) will need to come back to Saginaw during the week for work commitments.  Kurt will leave Sunday night 7/16 and return hopefully Monday night 7/17.  Would love if everyone could pick a day to do meals for the group.  Mary has volunteered to do Friday 7/21/17.  \n\nHer message and details are:  Dear Sue, we finally have settled what we're doing in our family during the week we are at your place in Torch Lake. Dave and I are coming with Alena and Gavin on Monday night, the 17th. Sarah is flying into Traverse City Tuesday morning. My sister Sally and Tim, and my brother Tom and Amy will come just for the day on Friday. Dave and I will cook for the day on Friday--think we'll have slo-cooker ribs and macaroni salad and veggies, with a dessert-to-be-determined. I have two slo-cookers I can bring. Thanks for allowing us to have them with us. Dave and I with children are leaving Saturday morning, dropping Sarah at the airport.  on the way. Love, Mary\n\nPlease reply to this message with when/if you will be arriving and what days you are willing to do meals.  \n\nLove you all and looking forward to seeing you soon!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sue Loesel Kuck",
+      "timestamp_ms": 1485955200220,
+      "content": "It's looking like arrival on Saturday 7/15 around 4 pm to departure Saturday 7/22 by 10 am is what we are looking at most likely dates.  Still have to finalize dates with renters but this should be the dates.  Will confirm with everyone when we know for sure",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarah Jalbert",
+      "timestamp_ms": 1485490563451,
+      "content": "As of now, any of those weeks work for us, but I'm not sure what my work demands will be so not 100% sure we'll be able to make it. Please don't schedule around us, we'll try to make it if we can!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sue Loesel Kuck",
+      "timestamp_ms": 1485466809765,
+      "content": "Just waiting to hear from Sarah/Darron and Ann/Larry.  Depending on which week we may not have a long weekend as we have two rental groups that are looking for July dates and we rent Saturday to Saturday.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jason Kuck",
+      "timestamp_ms": 1485459155169,
+      "content": "Just found out I could maybe get a Thursday or Friday off to join for a long weekend, but I'd have to let them know the dates really soon. So if it gets finalized, I'll try and request. I think all the weeks would be the same to me",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Emily Ann",
+      "timestamp_ms": 1485382112037,
+      "content": "I hate to say don't count on me & Austin, but I have no idea what our schedules will look like then. I may be on call with my job (I'm kind of always on call but there are some weekends I have to legit be on call all weekend) but if y'all pick a set of dates, then we can work towards scheduling around it and trying to get out there to see everyone! If we do come, we would probably throw the tent in the car and bring the pups (if that's cool) & camp with Griz & Roscoe (they will provide hours of entertainment hahaha). Keep us posted and I'll try to work some magic!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Evan Kuck",
+      "timestamp_ms": 1485368825844,
+      "content": "I would vote for the end of July, 7/22-7/29",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mary Kuck",
+      "timestamp_ms": 1485368786271,
+      "content": "7/22 to 7/29 would be ideal for us, but 7/15 to 7/22 would be good too.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Laurie Kuck",
+      "timestamp_ms": 1485354359585,
+      "content": "Don and I are pretty available, last week has a weekend conflict, we'd vote for later in July, just so the lake is a little warmer",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jason Kuck",
+      "timestamp_ms": 1485352043775,
+      "content": "I have a month long training for work that is during those times, so I wouldn't be able to make it, except maybe for a weekend",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Holly Lee Kuck",
+      "timestamp_ms": 1485351251396,
+      "content": "We are completely available right now.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ben Kuck",
+      "timestamp_ms": 1485302590907,
+      "content": "For us, the last week won't work very well but any of the others should be doable",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sue Loesel Kuck",
+      "timestamp_ms": 1485302350981,
+      "content": "Ok, what week works best for everyone?7/8 to 7/15; 7/15 to 7/22; 7/22 to 7/29 or 7/28 to 8/5/17.  We have become so far spread and diverse that we may have to go with majority rule.   Love you all!",
+      "type": "Generic"
+    }
+  ],
+  "title": "Emily Ann, Betsy Kuck, Josh Kuck and 13 others",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "inbox/EmilyAnnBetsyKuckJoshKuckand13others_ZkzqgXpRTA"
+}

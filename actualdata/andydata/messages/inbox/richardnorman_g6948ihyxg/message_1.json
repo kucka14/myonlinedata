@@ -1,0 +1,260 @@
+{
+  "participants": [
+    {
+      "name": "Richard Norman"
+    },
+    {
+      "name": "Andy Kuck"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Andy Kuck",
+      "timestamp_ms": 1586572716439,
+      "content": "Thanks!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Richard Norman",
+      "timestamp_ms": 1585931986513,
+      "content": "Oh I'm sure! You're a dedicated teacher! Keep up your good work!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andy Kuck",
+      "timestamp_ms": 1585931166464,
+      "content": "Yeah, I'll do what I can.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Richard Norman",
+      "timestamp_ms": 1585929340752,
+      "content": "Lol yeah. Hopefully you're able to video teach, at least! That would probably be helpful here!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andy Kuck",
+      "timestamp_ms": 1585921674141,
+      "content": "Yeah, things are going pretty good so far. But we'll see lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Richard Norman",
+      "timestamp_ms": 1585920506392,
+      "content": "Yeah. Hopefully you and your students are doing okay with it so far!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andy Kuck",
+      "timestamp_ms": 1585920309736,
+      "content": "Yes, that's very true.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Richard Norman",
+      "timestamp_ms": 1585684866861,
+      "content": "Especially when it's new",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Richard Norman",
+      "timestamp_ms": 1585684855259,
+      "content": "Lol yeah, that's probably a battle for lots of teachers right now. Math has to be tough to teach and learn without anyone explaining it, too. It's hard to learn math just by reading it.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andy Kuck",
+      "timestamp_ms": 1585674292565,
+      "content": "I'm doing alright. I posted all my assignments for the week. Now I just have to see if the students actually do them.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andy Kuck",
+      "timestamp_ms": 1585674263258,
+      "content": "I",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Richard Norman",
+      "timestamp_ms": 1585672688472,
+      "content": "How about you? How's the e-learning going?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Richard Norman",
+      "timestamp_ms": 1585672672827,
+      "content": "Yeah",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andy Kuck",
+      "timestamp_ms": 1585672189067,
+      "content": "OK, that's good. But, still a tough time.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Richard Norman",
+      "timestamp_ms": 1585515695601,
+      "content": "I do have my student loans this year, but the rent payments were higher.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Richard Norman",
+      "timestamp_ms": 1585515671430,
+      "content": "Yeah. It's a good thing this happened this year while I'm back home with my parents, rather than last year, while I still had rent to pay.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andy Kuck",
+      "timestamp_ms": 1585504011971,
+      "content": "That's tough - I hadn't thought about substitute teachers. Hopefully this doesn't last too long.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Richard Norman",
+      "timestamp_ms": 1584920388725,
+      "content": "I'm out of work because of this. I was subbing in LaPorte, but the schools shut down",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Richard Norman",
+      "timestamp_ms": 1584920364216,
+      "content": "Yeah. That's good. Physically, I'm doing pretty good. Mentally, it's a tough time, as it is for many right now.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andy Kuck",
+      "timestamp_ms": 1584915015094,
+      "content": "I am doing well. Just hunkering down. Hope you're doing well too",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Richard Norman",
+      "timestamp_ms": 1584914946793,
+      "content": "Hope you're doing okay in this tough time!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Richard Norman",
+      "timestamp_ms": 1584914929246,
+      "sticker": {
+        "uri": "messages/stickers_used/851587_369239346556147_162929011_n_369239343222814.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andy Kuck",
+      "timestamp_ms": 1584914887853,
+      "content": "Thanks, Richard!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Richard Norman",
+      "timestamp_ms": 1584218130640,
+      "content": "Happy birthday buddy!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Richard Norman",
+      "timestamp_ms": 1502116927123,
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andy Kuck",
+      "timestamp_ms": 1502111708488,
+      "content": "will do",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Richard Norman",
+      "timestamp_ms": 1502111645819,
+      "content": "You bet! Keep in touch!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andy Kuck",
+      "timestamp_ms": 1502110663110,
+      "content": "Thanks!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Richard Norman",
+      "timestamp_ms": 1502110417261,
+      "content": "Thanks! Oh gotcha, good luck!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andy Kuck",
+      "timestamp_ms": 1502110214806,
+      "content": "Oh, man - well I hope that goes well. and, yeah, I'm finished at VU. I'll be teaching at a high school in Hammond this fall.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Richard Norman",
+      "timestamp_ms": 1502109806554,
+      "content": "Oh! Are you still going to VU next year, or are you done now? Okay thanks, I'll see. This week is crazy for me, because I'm having dental surgery on Thursday",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andy Kuck",
+      "timestamp_ms": 1502108514549,
+      "content": "So I've been pretty busy, and I'm actually getting ready to move to Chicago tomorrow. But if you want to come, there is a group run tonight that I'm going to. We leave from the extra mile store at 6pm.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Richard Norman",
+      "timestamp_ms": 1500316165002,
+      "content": "Thanks!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andy Kuck",
+      "timestamp_ms": 1500313338459,
+      "content": "Good luck with your tests",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Richard Norman",
+      "timestamp_ms": 1500313232389,
+      "content": "Oh okay, no worries. I'm plenty busy anyways, so I'm never bored lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andy Kuck",
+      "timestamp_ms": 1500313168250,
+      "content": "I'm out of town now. I'll let you know when I get back in a couple days",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Richard Norman",
+      "timestamp_ms": 1500221576263,
+      "content": "Good job!! Yeah maybe we can jog together sometime! Do you live at Uptown?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andy Kuck",
+      "timestamp_ms": 1500217855806,
+      "content": "Pretty good. I got second place in my age group. If you ever want to go running or something, just let me know",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Richard Norman",
+      "timestamp_ms": 1500161178896,
+      "content": "Hey how did the race go for you?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Richard Norman",
+      "timestamp_ms": 1500004941172,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Richard Norman",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/RichardNorman_G6948ihyxg"
+}

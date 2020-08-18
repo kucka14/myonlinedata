@@ -1,0 +1,11 @@
+{
+  "messenger": {
+    "secret_conversations": {
+      "has_sent_message": false,
+      "has_received_message": false,
+      "tincan_devices": [
+        
+      ]
+    }
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "participants": [
+    {
+      "name": "Kaylyn Banaszak"
+    },
+    {
+      "name": "Andy Kuck"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Kaylyn Banaszak",
+      "timestamp_ms": 1496864696148,
+      "content": "My nephew goes to Morton! I went to school in Hammond but I went to Clark, not Morton. I can't speak much for the school because I don't know it too well. I would say the area isn't fantastic, but it is close to Chicago like you want! Just from what I hear from my nephew, I would think you would have to be strong/strict, but there is no reason why you couldn't have a good time there! Plus, they pay well!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andy Kuck",
+      "timestamp_ms": 1496860745137,
+      "content": "Morton High School. Know anything about it? Did you go to school in Hammond?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kaylyn Banaszak",
+      "timestamp_ms": 1496853820358,
+      "content": "Oh I bet they had already filled the positions by that time! Must not have been meant to be. Oh Hammond? I used to live there. What school? But that's seems like a better fit if you want to be close to Chicago!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andy Kuck",
+      "timestamp_ms": 1496852300788,
+      "content": "I thought the interview went alright, but I didn't get a call a call back from them. Which is fine, because I think I'm going to take a job in Hammond anyway. I want to be a little closer to Chicago.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kaylyn Banaszak",
+      "timestamp_ms": 1496776084918,
+      "content": "Hey! I never got to talk to you after your interview at Merrillville. How did it go? Have you made any decisions about where you'll be next year?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kaylyn Banaszak",
+      "timestamp_ms": 1496775373967,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Kaylyn Banaszak",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/KaylynBanaszak_Y6OqOp7Vwg"
+}

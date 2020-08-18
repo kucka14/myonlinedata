@@ -1,0 +1,81 @@
+{
+  "participants": [
+    {
+      "name": "John Christenson"
+    },
+    {
+      "name": "Andy Kuck"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Andy Kuck",
+      "timestamp_ms": 1529033119161,
+      "content": "Say hello to John.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andy Kuck",
+      "timestamp_ms": 1526784209895,
+      "content": "Haha that sounds reasonable",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "John Christenson",
+      "timestamp_ms": 1526546089638,
+      "content": "Eh not much. I fly on average once a week, which honestly isn\u00e2\u0080\u0099t bad. I do eat a lot of Japanese snacks. I don\u00e2\u0080\u0099t count them as calories, instead as cultural experiences",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andy Kuck",
+      "timestamp_ms": 1526528090659,
+      "content": "So are you getting a lot of flight time? I haven't heard much, although Karin said something about Japanese snacks",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andy Kuck",
+      "timestamp_ms": 1526527884192,
+      "content": "Yeah, I'll be teaching with a summer math and science program that operates close to the village where I used to live.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "John Christenson",
+      "timestamp_ms": 1526441795903,
+      "content": "Teaching again?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andy Kuck",
+      "timestamp_ms": 1526441066401,
+      "content": "Haha thanks for the heads up. I actually have a job back in the Marshall Islands lined up for this summer. But if that falls through, I'll check if they still have the canoe guide opening.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "John Christenson",
+      "timestamp_ms": 1526377984343,
+      "content": "That just popped up on the page for the canoe guide place in Northern Minnesota. You\u00e2\u0080\u0099ve got them right where you want them! Demand double pay and your own cabin!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "John Christenson",
+      "timestamp_ms": 1526377908258,
+      "photos": [
+        {
+          "uri": "messages/inbox/JohnChristenson_VEaeCyAzCA/photos/32459395_10210843941045837_6759510794204872704_n_10210843940925834.jpg",
+          "creation_timestamp": 1526377907
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "John Christenson",
+      "timestamp_ms": 1465510883678,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "John Christenson",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/JohnChristenson_VEaeCyAzCA"
+}

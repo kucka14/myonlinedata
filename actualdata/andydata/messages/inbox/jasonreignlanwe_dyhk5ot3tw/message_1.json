@@ -1,0 +1,22 @@
+{
+  "participants": [
+    {
+      "name": "Jason Reign Lanwe"
+    },
+    {
+      "name": "Andy Kuck"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Jason Reign Lanwe",
+      "timestamp_ms": 1492717949794,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Jason Reign Lanwe",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/JasonReignLanwe_dyhk5Ot3tw"
+}

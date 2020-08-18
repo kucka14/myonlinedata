@@ -1,0 +1,238 @@
+{
+  "participants": [
+    {
+      "name": "Benjamin Ulik"
+    },
+    {
+      "name": "Rina Caldwell"
+    },
+    {
+      "name": "Jessie Wise"
+    },
+    {
+      "name": "Nick Schirmer"
+    },
+    {
+      "name": "Owen Cousino"
+    },
+    {
+      "name": "Evan Kresta"
+    },
+    {
+      "name": "Caleb Brudi"
+    },
+    {
+      "name": "Justus Wise"
+    },
+    {
+      "name": "Facebook User"
+    },
+    {
+      "name": "Jason Kuck"
+    },
+    {
+      "name": "Ben Robson"
+    },
+    {
+      "name": "Andy Kuck"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Jessie Wise",
+      "timestamp_ms": 1477867987313,
+      "content": "https://www.airbnb.com/rooms/524645?checkin=06%2F12%2F2017&checkout=06%2F15%2F2017&guests=2&s=CThSN-zV",
+      "share": {
+        "link": "https://www.airbnb.com/rooms/524645"
+      },
+      "type": "Share"
+    },
+    {
+      "sender_name": "Jessie Wise",
+      "timestamp_ms": 1477863443411,
+      "content": "\u00e2\u009c\u0088\u00f0\u009f\u0097\u00bb\u00f0\u009f\u009a\u0082\u00f0\u009f\u0097\u00bb\u00f0\u009f\u008c\u008c\u00f0\u009f\u008c\u0085\u00f0\u009f\u0087\u00b3\u00f0\u009f\u0087\u00b4",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justus Wise",
+      "timestamp_ms": 1477863184420,
+      "content": "\u00e2\u009c\u0088\u00f0\u009f\u0098\u0083",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jessie Wise",
+      "timestamp_ms": 1477863158542,
+      "content": "I. AM. SO. EXCITED.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jessie Wise",
+      "timestamp_ms": 1477863124825,
+      "content": "These are some of the best flight deals that we have been seeing this week, a lot of the dates in June were skyrocketing pretty fast...so if you are hoping to come with, it is probably not a bad idea to purchase soon! The couple days surrounding this particular flight were also similarly priced options - it would be fantastic to fly out together!! But is nice that this time frame still seems to be reasonably priced if we end up on different flights within the same couple days",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jessie Wise",
+      "timestamp_ms": 1477862998632,
+      "content": "May 8-17th",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jessie Wise",
+      "timestamp_ms": 1477862976753,
+      "content": "It is a United flight our of Newark through Oslo and then onto Trondheim!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jessie Wise",
+      "timestamp_ms": 1477862945535,
+      "content": "We did it!!! We ended up going with these flights!! https://www.google.com/flights/?f=0&source=flre_fli_share&source=flre_fli_share#search;f=JFK,EWR,LGA;t=TRD;d=2017-05-08;r=2017-05-17;sel=EWROSL0UA38-OSLTRD1SK338,TRDOSL0SK347-OSLEWR0UA39",
+      "share": {
+        "link": "https://www.google.com/flights/?f=0&source=flre_fli_share#search;f=JFK,EWR,LGA;t=TRD;d=2017-05-08;r=2017-05-17;sel=EWROSL0UA38-OSLTRD1SK338,TRDOSL0SK347-OSLEWR0UA39"
+      },
+      "type": "Share"
+    },
+    {
+      "sender_name": "Jessie Wise",
+      "timestamp_ms": 1477098148552,
+      "content": "Jessie Wise added Benjamin Ulik to the group.",
+      "type": "Subscribe",
+      "users": [
+        {
+          "name": "Benjamin Ulik"
+        }
+      ]
+    },
+    {
+      "sender_name": "Jessie Wise",
+      "timestamp_ms": 1477098036355,
+      "content": "Yes, report back!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ben Robson",
+      "timestamp_ms": 1477084893098,
+      "content": "I'm actually going in 3 weeks as well, I'll scope it out for ya haha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Justus Wise",
+      "timestamp_ms": 1477082664435,
+      "content": "Justus Wise added a participant.",
+      "type": "Subscribe",
+      "users": [
+        
+      ]
+    },
+    {
+      "sender_name": "Jessie Wise",
+      "timestamp_ms": 1477075811511,
+      "content": "That would be awesome Ben!!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ben Robson",
+      "timestamp_ms": 1477038237408,
+      "content": "Sweet! Let me see when I finish classes, Norway's a short flight from here, should be right around that time",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jessie Wise",
+      "timestamp_ms": 1477032016262,
+      "content": "Also looks like there is a delta version of the same flight? Correct me if I am wrong, Justus?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jessie Wise",
+      "timestamp_ms": 1477031998382,
+      "content": "https://www.delta.com/cart/activity/tripsummary.action?cacheKeySuffix=4f827ba1-d2a2-44d6-8c36-1c73339044c3&cabin=ECONOMY&paxCount=1&price=501.26&tripType=roundTrip&exitCountry=US&currencyCd=USD&fareBasis=VK9R4US:VK9R4US:VK9R4US:VK9R4US&vendorRedirectFlag=true&vendorID=Google&itinSegment%5B0%5D=0:V:JFK:AMS:DL:9357:MAY:08:2017:05P&itinSegment%5B1%5D=0:V:AMS:TRD:DL:9331:MAY:09:2017:09A&itinSegment%5B2%5D=1:V:TRD:AMS:DL:9680:MAY:17:2017:06A&itinSegment%5B3%5D=1:V:AMS:JFK:DL:9348:MAY:17:2017:01P&numOfSegments=4&MkCpgn=MS_GFSR_DESK_DOM_TR_DL_140414_GFSDESK",
+      "share": {
+        "link": "https://www.delta.com/air-shopping/searchFlights.action?action=startOver&keepSession=Y&alerts=300515"
+      },
+      "type": "Share"
+    },
+    {
+      "sender_name": "Jessie Wise",
+      "timestamp_ms": 1477026088780,
+      "content": "https://www.visitnorway.com/places-to-go/northern-norway/the-lofoten-islands/",
+      "share": {
+        "link": "https://www.visitnorway.com/places-to-go/northern-norway/the-lofoten-islands/"
+      },
+      "type": "Share"
+    },
+    {
+      "sender_name": "Jessie Wise",
+      "timestamp_ms": 1477026072664,
+      "content": "Jessie Wise added Ben Robson to the group.",
+      "type": "Subscribe",
+      "users": [
+        {
+          "name": "Ben Robson"
+        }
+      ]
+    },
+    {
+      "sender_name": "Jessie Wise",
+      "timestamp_ms": 1477025582238,
+      "content": "https://www.nsb.no/en/our-destinations/our-regional-railway-lines/nordlandrailway",
+      "share": {
+        "link": "https://www.nsb.no/en/our-destinations/our-regional-railway-lines/nordlandrailway"
+      },
+      "type": "Share"
+    },
+    {
+      "sender_name": "Jessie Wise",
+      "timestamp_ms": 1477025537978,
+      "content": "Rough Sketch of the Trip: Fly into Trondheim, train up to Bodo, car/ferry to Lofoten, other hiking adventures, train back down to Trondheim, fly home.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jessie Wise",
+      "timestamp_ms": 1477025454364,
+      "content": "Justus and I are hoping to book the flights soon so that we don't miss out on the deal...most other flights are in the 650-780 range in May, June and August",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jessie Wise",
+      "timestamp_ms": 1477025271852,
+      "content": "May seems to be the best prices and while it is kinda of a tricky work month for me, May 8th-17th actually would work! We can keep tabs on flights from Detroit to NYC/JFK over the next while",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jessie Wise",
+      "timestamp_ms": 1477025160443,
+      "content": "After a lot of research, Justus and I found a pretty good flight from JFK to Trondheim - - https://goo.gl/flights/YJox",
+      "share": {
+        "link": "https://www.google.com/flights/?f=0&source=flre_fli_share#search;f=JFK;t=TRD;d=2017-05-08;r=2017-05-17;sel=JFKAMS0KL642-AMSTRD1KL1173,TRDAMS0KL1176-AMSJFK1KL641"
+      },
+      "type": "Share"
+    },
+    {
+      "sender_name": "Jessie Wise",
+      "timestamp_ms": 1477024951045,
+      "content": "Jessie Wise added Evan Kresta to the group.",
+      "type": "Subscribe",
+      "users": [
+        {
+          "name": "Evan Kresta"
+        }
+      ]
+    },
+    {
+      "sender_name": "Jessie Wise",
+      "timestamp_ms": 1477024926815,
+      "content": "But feel free to remove yourself if you don't/can't be a part of this adventure!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jessie Wise",
+      "timestamp_ms": 1477024747324,
+      "content": "Hey friends!! You are all added to this message because you may have expressed interest in a trip to Norway or Justus/I insisted you come and didn't really give you a choice.....",
+      "type": "Generic"
+    }
+  ],
+  "title": "Benjamin Ulik, Rina Caldwell, Jessie Wise and 8 others",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "inbox/BenjaminUlikRinaCaldwellJessieWiseand8others_7GgSV2bnHQ"
+}

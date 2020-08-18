@@ -1,0 +1,52 @@
+{
+  "participants": [
+    {
+      "name": "Josh Kuck"
+    },
+    {
+      "name": "Evan Kuck"
+    },
+    {
+      "name": "Mary Kuck"
+    },
+    {
+      "name": "Holly Lee Kuck"
+    },
+    {
+      "name": "Sue Loesel Kuck"
+    },
+    {
+      "name": "Ben Kuck"
+    },
+    {
+      "name": "David Kuck"
+    },
+    {
+      "name": "Ann Baas"
+    },
+    {
+      "name": "Jason Kuck"
+    },
+    {
+      "name": "Andy Kuck"
+    },
+    {
+      "name": "Christa Kuck"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Holly Lee Kuck",
+      "timestamp_ms": 1562422428808,
+      "content": "Jason has been diligently reminding me that my work had a home that needs your votes. https://residentialdesignawards.com/2019-global-choice-award/   Please vote for Visbeen Architects!",
+      "share": {
+        "link": "https://www.facebook.com/events/687630145028524/"
+      },
+      "type": "Share"
+    }
+  ],
+  "title": "Josh Kuck, Evan Kuck, Mary Kuck and 7 others",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "inbox/JoshKuckEvanKuckMaryKuckand7others_PskdawGobw"
+}

@@ -1,0 +1,46 @@
+{
+  "participants": [
+    {
+      "name": "Katie Silaj"
+    },
+    {
+      "name": "Andy Kuck"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Andy Kuck",
+      "timestamp_ms": 1502042251344,
+      "content": "No problem",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Katie Silaj",
+      "timestamp_ms": 1502042186480,
+      "content": "Thank you! I didn't get it.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andy Kuck",
+      "timestamp_ms": 1502042164561,
+      "content": "Hi. It's Wednesday and Thursday. Then there's something else on Friday - I'm not sure if that one is mandatory. I'll forward you the email",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Katie Silaj",
+      "timestamp_ms": 1501979574344,
+      "content": "Hi! Can you please tell me which days we have to go to orientation next week?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Katie Silaj",
+      "timestamp_ms": 1501976690052,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Katie Silaj",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/KatieSilaj_C5SMJ7nygg"
+}

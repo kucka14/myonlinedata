@@ -1,0 +1,46 @@
+{
+  "participants": [
+    {
+      "name": "Beth Shumway"
+    },
+    {
+      "name": "Andy Kuck"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Beth Shumway",
+      "timestamp_ms": 1487533560693,
+      "content": "Thank you, and I am flattered. But as I am currently looking to spend a year or two abroad, I'm not looking to start anything right now. Again, I am really flattered, but it's just not something I am looking for right now",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andy Kuck",
+      "timestamp_ms": 1487513303145,
+      "content": "Ok. Now, I would happily drive out to Chicago to get coffee with you. But if you'd rather not, that's fine. Good luck with applications and deciding which continent you'll go to next year.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Beth Shumway",
+      "timestamp_ms": 1487472542161,
+      "content": "Hi Andy. I enjoyed talking to you as well and hearing about your experience teaching abroad. Unfortunately I was just in Valpo for Betsy's birthday and am back in the Chicago area now, so I won't be able to go out for coffee. But it is very kind of you to ask",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andy Kuck",
+      "timestamp_ms": 1487453138209,
+      "content": "Beth, it was great meeting you last night, and I wish I would have talked to you more. I was wondering if you would like to go out for coffee sometime?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andy Kuck",
+      "timestamp_ms": 1487429823253,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Beth Shumway",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/BethShumway_kKlsr5Wmuw"
+}

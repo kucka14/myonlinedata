@@ -1,0 +1,22 @@
+{
+  "participants": [
+    {
+      "name": "Dave Cutchin"
+    },
+    {
+      "name": "Andy Kuck"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Dave Cutchin",
+      "timestamp_ms": 1495024206566,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Dave Cutchin",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/DaveCutchin_SrxvgNzKDg"
+}

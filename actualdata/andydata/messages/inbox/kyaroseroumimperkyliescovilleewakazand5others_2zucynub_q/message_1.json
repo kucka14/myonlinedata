@@ -1,0 +1,80 @@
+{
+  "participants": [
+    {
+      "name": "Kya Rose Roumimper"
+    },
+    {
+      "name": "Kylie Scoville"
+    },
+    {
+      "name": "Ewa Kaz"
+    },
+    {
+      "name": "Jalle Bolkeim"
+    },
+    {
+      "name": "Andy Kuck"
+    },
+    {
+      "name": "Agnes Albert"
+    },
+    {
+      "name": "Albert Tharpe III"
+    },
+    {
+      "name": "Facebook User"
+    },
+    {
+      "name": "Stanity Jorju"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Martha Anger",
+      "timestamp_ms": 1497299396078,
+      "content": "Martha Anger left the group.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Martha Anger"
+        }
+      ]
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1497280269989,
+      "content": "A contact left the group.",
+      "type": "Unsubscribe",
+      "users": [
+        
+      ]
+    },
+    {
+      "sender_name": "Derick Joynes",
+      "timestamp_ms": 1497269866693,
+      "content": "Derick Joynes left the group.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Derick Joynes"
+        }
+      ]
+    },
+    {
+      "sender_name": "Stanity Jorju",
+      "timestamp_ms": 1497264256619,
+      "content": "Hello there",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Stanity Jorju",
+      "timestamp_ms": 1497263761601,
+      "content": "Stanity created the group.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Kya Rose Roumimper, Kylie Scoville, Ewa Kaz and 5 others",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "inbox/KyaRoseRoumimperKylieScovilleEwaKazand5others_2ZuCYnUb_Q"
+}

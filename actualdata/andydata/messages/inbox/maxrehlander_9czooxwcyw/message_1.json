@@ -1,0 +1,52 @@
+{
+  "participants": [
+    {
+      "name": "Max Rehlander"
+    },
+    {
+      "name": "Andy Kuck"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Andy Kuck",
+      "timestamp_ms": 1521599458824,
+      "content": "Haha I don't think playing golf with me is a good way to improve, but that would be fun",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Max Rehlander",
+      "timestamp_ms": 1521580919328,
+      "content": "Cool dude. Lemme know. My running and golfing game will surely improve if you come back.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andy Kuck",
+      "timestamp_ms": 1521391433891,
+      "content": "Thanks! I'm thinking of moving back to Valpo, so then maybe we can hang out more",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Max Rehlander",
+      "timestamp_ms": 1521051675320,
+      "content": "Long time, no see. Happy Birthday!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andy Kuck",
+      "timestamp_ms": 1501708239025,
+      "content": "Do you want to play golf sometime between now and Monday? Text me if you want to. 734-649-1650",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andy Kuck",
+      "timestamp_ms": 1499827743897,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Max Rehlander",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/MaxRehlander_9czOOXWcYw"
+}

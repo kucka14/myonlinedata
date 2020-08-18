@@ -1,0 +1,58 @@
+{
+  "participants": [
+    {
+      "name": "Nadia Lala Marty"
+    },
+    {
+      "name": "Andy Kuck"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Nadia Lala Marty",
+      "timestamp_ms": 1567542015650,
+      "content": "You celebrated a friendversary with a friend.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Nadia Lala Marty",
+      "timestamp_ms": 1530346031064,
+      "content": "Aw i see. Hope you\u00e2\u0080\u0099re having fun",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andy Kuck",
+      "timestamp_ms": 1530313488315,
+      "content": "I'm only here for the summer. I'm just teaching a summer class in Arrak",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Nadia Lala Marty",
+      "timestamp_ms": 1529707826534,
+      "content": "omg. That sounds sooooo nice. I was so surprised when i heard ur back at majuro. How long are you there for? and yes I live here now. Missing majuro for sure.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andy Kuck",
+      "timestamp_ms": 1529707349070,
+      "content": "Yeah, I'm living with Grandy for the summer. I saw Maybelyn and Waju the other day. You live in Oregon now?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Nadia Lala Marty",
+      "timestamp_ms": 1529428333278,
+      "content": "hey i heard ur back at Majuro",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andy Kuck",
+      "timestamp_ms": 1504478832052,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Nadia Lala Marty",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/NadiaLalaMarty_8r4fgnAEuA"
+}

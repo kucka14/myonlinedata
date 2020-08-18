@@ -1,0 +1,129 @@
+.titlea {
+  font-size: 36px; }
+
+.formbox {
+  display: inline-block; }
+
+.forma {
+  margin-top: 10px;
+  margin-bottom: 15px;
+  text-align: left; }
+
+.formb {
+  margin-bottom: 10px; }
+
+.top-container {
+  display: flex;
+  min-height: 100vh; }
+
+.top-left {
+  background-color: #331461;
+  color: white;
+  flex: 1;
+  display: flex; }
+
+.top-right {
+  background-color: #03494a;
+  color: white;
+  flex: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center; }
+
+.inner-box-left {
+  display: inline-block;
+  width: 90%;
+  margin-top: calc(50vh - 90px);
+  margin-bottom: auto;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center; }
+
+.inner-box-right-second {
+  height: 95vh;
+  width: 100%;
+  margin-left: 22px;
+  display: flex;
+  flex-direction: column; }
+
+.scroll-box {
+  margin-left: auto;
+  margin-right: auto;
+  height: 95%;
+  overflow-y: auto;
+  margin-bottom: 15px; }
+
+.expand-icon-1 {
+  position: absolute;
+  opacity: 0.5;
+  width: 30px;
+  height: 30px;
+  left: calc(50vw - 22px);
+  padding: 0px; }
+
+.expand-icon-1:hover {
+  color: white; }
+
+.expand-icon-2 {
+  position: absolute;
+  opacity: 0.5;
+  width: 30px;
+  height: 30px;
+  left: 10px;
+  padding: 0px;
+  display: none; }
+
+.expand-icon-2:hover {
+  color: white; }
+
+.clear-btn {
+  display: inline-block;
+  margin-left: auto;
+  margin-right: auto; }
+
+.clear-btn:hover {
+  color: white; }
+
+@media screen and (max-width: 850px) {
+  .top-container {
+    flex-direction: column; }
+
+  .top-left {
+    flex: 0;
+    padding-top: 15px;
+    padding-bottom: 20px; }
+
+  .top-right {
+    flex: auto; }
+
+  .inner-box-left {
+    margin-top: 0px; }
+
+  .inner-box-right-second {
+    height: auto;
+    flex-direction: column-reverse;
+    margin-top: 20px;
+    margin-left: 45px; }
+
+  .clear-btn {
+    margin-left: -40px; }
+
+  .scroll-box {
+    overflow-y: hidden;
+    margin-top: 10px; }
+
+  .expand-icon-1 {
+    display: none; }
+
+  .expand-icon-2 {
+    position: fixed;
+    bottom: calc(50vh - 15px); } }
+.inner-box-right-first {
+  display: inline-block;
+  width: 90%;
+  margin-top: 10px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center; }
+
+/*# sourceMappingURL=stylea.css.map */

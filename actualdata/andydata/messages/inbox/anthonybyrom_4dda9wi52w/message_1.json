@@ -1,0 +1,22 @@
+{
+  "participants": [
+    {
+      "name": "Anthony Byrom"
+    },
+    {
+      "name": "Andy Kuck"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Anthony Byrom",
+      "timestamp_ms": 1529064758286,
+      "content": "Anthony is waving at you!",
+      "type": "Share"
+    }
+  ],
+  "title": "Anthony Byrom",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/AnthonyByrom_4Dda9wI52w"
+}

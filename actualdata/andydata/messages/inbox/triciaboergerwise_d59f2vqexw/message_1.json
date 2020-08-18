@@ -1,0 +1,22 @@
+{
+  "participants": [
+    {
+      "name": "Tricia Boerger Wise"
+    },
+    {
+      "name": "Andy Kuck"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tricia Boerger Wise",
+      "timestamp_ms": 1529073476963,
+      "content": "Tricia is waving at you!",
+      "type": "Share"
+    }
+  ],
+  "title": "Tricia Boerger Wise",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/TriciaBoergerWise_D59F2vQexw"
+}

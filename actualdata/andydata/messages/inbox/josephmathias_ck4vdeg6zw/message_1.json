@@ -1,0 +1,46 @@
+{
+  "participants": [
+    {
+      "name": "Joseph Mathias"
+    },
+    {
+      "name": "Andy Kuck"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Joseph Mathias",
+      "timestamp_ms": 1445895027464,
+      "content": "Btw, my number is 7344745999, if you want to carry on by text!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Joseph Mathias",
+      "timestamp_ms": 1445895008156,
+      "content": "Could you do a Thursday happy hour, e.g., 5pm?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andy Kuck",
+      "timestamp_ms": 1445888221119,
+      "content": "I work through the weekend, so Friday doesn't work. And probably not a Halloween party either. I could meet up for drinks Thursday, or maybe tomorrow",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Joseph Mathias",
+      "timestamp_ms": 1445887830219,
+      "content": "\\",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Joseph Mathias",
+      "timestamp_ms": 1445887830032,
+      "content": "Hi Andy, I was wondering if you'd be up for grabbing a drink late afternoon this Friday? Also do you know about the Living Stones Halloween party?",
+      "type": "Generic"
+    }
+  ],
+  "title": "Joseph Mathias",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/JosephMathias_ck4VdEG6zw"
+}

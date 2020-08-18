@@ -1,0 +1,34 @@
+{
+  "participants": [
+    {
+      "name": "John Ric Alcantara Andolero"
+    },
+    {
+      "name": "Andy Kuck"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "John Ric Alcantara Andolero",
+      "timestamp_ms": 1531525233705,
+      "content": "Hello Mr",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "John Ric Alcantara Andolero",
+      "timestamp_ms": 1531525227182,
+      "content": "John Ric is waving at you!",
+      "type": "Share"
+    },
+    {
+      "sender_name": "John Ric Alcantara Andolero",
+      "timestamp_ms": 1531521851767,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "John Ric Alcantara Andolero",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/JohnRicAlcantaraAndolero__GOdjnZwEg"
+}

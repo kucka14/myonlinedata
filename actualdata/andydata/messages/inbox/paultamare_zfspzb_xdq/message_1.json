@@ -1,0 +1,70 @@
+{
+  "participants": [
+    {
+      "name": "Paul Tamare"
+    },
+    {
+      "name": "Andy Kuck"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Andy Kuck",
+      "timestamp_ms": 1457926230306,
+      "content": "Thanks",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Paul Tamare",
+      "timestamp_ms": 1457926139687,
+      "content": "Yebb,we'll miss u too,thanks and good luck too",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andy Kuck",
+      "timestamp_ms": 1457925911198,
+      "content": "Eman. I do not know if I will come back. I know that I cannot come back in next year. After that, I do not know. I miss Laura, but I have some things in the States I have to do. But good luck for fourth quarter; tell 11a not to start being too lazy",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Paul Tamare",
+      "timestamp_ms": 1457925644935,
+      "content": "Hm,Andy will you come back ",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Paul Tamare",
+      "timestamp_ms": 1457925399720,
+      "content": "Well we're doing what we've always doing u know abnormal class,ah and yes we've just finished our 3rd quarter finals exam last week.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andy Kuck",
+      "timestamp_ms": 1457925162330,
+      "content": "Good. I am working and going to school. How is 11a doing? Did you have 3rd quarter finals recently?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Paul Tamare",
+      "timestamp_ms": 1457924980160,
+      "content": "I'm great,how about you?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andy Kuck",
+      "timestamp_ms": 1457924913663,
+      "content": "Hi Paul. How are you?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Paul Tamare",
+      "timestamp_ms": 1457924878730,
+      "content": "Hi,Andy",
+      "type": "Generic"
+    }
+  ],
+  "title": "Paul Tamare",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/PaulTamare_ZFspZB_xDQ"
+}

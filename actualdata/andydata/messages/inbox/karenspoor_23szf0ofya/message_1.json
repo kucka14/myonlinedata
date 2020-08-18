@@ -1,0 +1,58 @@
+{
+  "participants": [
+    {
+      "name": "Karen Spoor"
+    },
+    {
+      "name": "Andy Kuck"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Andy Kuck",
+      "timestamp_ms": 1529033119243,
+      "content": "Say hello to Karen.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Karen Spoor",
+      "timestamp_ms": 1500151989255,
+      "content": "Absolutely.... you were great. Jim was with me, Leeann and her hubby were in the audience as well as Dan Sturgell's wife, Jackie.... all the cool kids in town were there!!! Great Job",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andy Kuck",
+      "timestamp_ms": 1500149923024,
+      "content": "Thanks for coming to the show last night! Hope you enjoyed it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Karen Spoor",
+      "timestamp_ms": 1500072704792,
+      "content": "We are coming tonight",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Karen Spoor",
+      "timestamp_ms": 1500031304374,
+      "content": "Thanks.... hopefully we can get to the show either this Friday or next then...",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andy Kuck",
+      "timestamp_ms": 1500005167156,
+      "content": "Hey, I made a mistake. There is a show this Sunday, but not on the 23rd. And Friday and Saturday night this weekend and next.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Karen Spoor",
+      "timestamp_ms": 1499821625005,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Karen Spoor",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/KarenSpoor_23Szf0OfyA"
+}

@@ -1,0 +1,197 @@
+{
+  "admin_records": [
+    {
+      "event": "Password Change",
+      "session": {
+        "created_timestamp": 1468987568,
+        "ip_address": "2601:0248:c201:1690:b092:2fd7:95b4:63d8",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2486.0 Safari/537.36 Edge/13.10586",
+        "datr_cookie": "h5N0********************"
+      }
+    },
+    {
+      "event": "Checkpoint completed",
+      "session": {
+        "created_timestamp": 1451046324,
+        "ip_address": "170.232.28.4",
+        "user_agent": "",
+        "datr_cookie": ""
+      }
+    },
+    {
+      "event": "Checkpoint",
+      "session": {
+        "created_timestamp": 1451046286,
+        "ip_address": "170.232.28.4",
+        "user_agent": "",
+        "datr_cookie": ""
+      }
+    },
+    {
+      "event": "Checkpoint completed",
+      "session": {
+        "created_timestamp": 1449501513,
+        "ip_address": "24.248.210.25",
+        "user_agent": "",
+        "datr_cookie": ""
+      }
+    },
+    {
+      "event": "Checkpoint",
+      "session": {
+        "created_timestamp": 1449501407,
+        "ip_address": "24.248.210.25",
+        "user_agent": "",
+        "datr_cookie": ""
+      }
+    },
+    {
+      "event": "Checkpoint completed",
+      "session": {
+        "created_timestamp": 1449348567,
+        "ip_address": "167.29.4.150",
+        "user_agent": "",
+        "datr_cookie": ""
+      }
+    },
+    {
+      "event": "Checkpoint",
+      "session": {
+        "created_timestamp": 1449348503,
+        "ip_address": "167.29.4.150",
+        "user_agent": "",
+        "datr_cookie": ""
+      }
+    },
+    {
+      "event": "Checkpoint completed",
+      "session": {
+        "created_timestamp": 1434403788,
+        "ip_address": "72.234.33.140",
+        "user_agent": "",
+        "datr_cookie": ""
+      }
+    },
+    {
+      "event": "Checkpoint",
+      "session": {
+        "created_timestamp": 1434403686,
+        "ip_address": "72.234.33.140",
+        "user_agent": "",
+        "datr_cookie": ""
+      }
+    },
+    {
+      "event": "Checkpoint completed",
+      "session": {
+        "created_timestamp": 1407043121,
+        "ip_address": "117.103.90.156",
+        "user_agent": "",
+        "datr_cookie": ""
+      }
+    },
+    {
+      "event": "Checkpoint",
+      "session": {
+        "created_timestamp": 1407042971,
+        "ip_address": "117.103.90.156",
+        "user_agent": "",
+        "datr_cookie": ""
+      }
+    },
+    {
+      "event": "Birthday Change",
+      "session": {
+        "created_timestamp": 1403142379,
+        "ip_address": "76.204.7.8",
+        "user_agent": "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36",
+        "datr_cookie": "uoS8********************"
+      }
+    },
+    {
+      "event": "Name Change",
+      "session": {
+        "created_timestamp": 1400452876,
+        "ip_address": "98.209.208.213",
+        "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_2) AppleWebKit/537.75.14 (KHTML, like Gecko) Version/7.0.3 Safari/537.75.14",
+        "datr_cookie": "fSAN********************"
+      },
+      "extra_info": {
+        "old_name": "Andrew Kuck",
+        "new_name": "Andy Kuck",
+        "old_number": "",
+        "old_vanity": "",
+        "new_vanity": "",
+        "old_email": "",
+        "new_email": "",
+        "new_number": ""
+      }
+    },
+    {
+      "event": "Birthday Change",
+      "session": {
+        "created_timestamp": 1400451351,
+        "ip_address": "98.209.208.213",
+        "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_2) AppleWebKit/537.75.14 (KHTML, like Gecko) Version/7.0.3 Safari/537.75.14",
+        "datr_cookie": "fSAN********************"
+      }
+    },
+    {
+      "event": "Email change",
+      "session": {
+        "created_timestamp": 1389632410,
+        "ip_address": "148.61.115.146",
+        "user_agent": "Mozilla/5.0 (Windows NT 6.1; rv:22.0) Gecko/20100101 Firefox/22.0",
+        "datr_cookie": "eBrU********************"
+      },
+      "extra_info": {
+        "old_name": "",
+        "new_name": "",
+        "old_number": "",
+        "old_vanity": "",
+        "new_vanity": "",
+        "old_email": "",
+        "new_email": "andrew.kuck.9@facebook.com",
+        "new_number": ""
+      }
+    },
+    {
+      "event": "Username",
+      "session": {
+        "created_timestamp": 1389632410,
+        "ip_address": "148.61.115.146",
+        "user_agent": "",
+        "datr_cookie": ""
+      },
+      "extra_info": {
+        "old_name": "",
+        "new_name": "",
+        "old_number": "",
+        "old_vanity": "",
+        "new_vanity": "andrew.kuck.9",
+        "old_email": "",
+        "new_email": "",
+        "new_number": ""
+      }
+    },
+    {
+      "event": "Email change",
+      "session": {
+        "created_timestamp": 1389632224,
+        "ip_address": "148.61.115.146",
+        "user_agent": "Mozilla/5.0 (Windows NT 6.1; rv:22.0) Gecko/20100101 Firefox/22.0",
+        "datr_cookie": "eBrU********************"
+      },
+      "extra_info": {
+        "old_name": "",
+        "new_name": "",
+        "old_number": "",
+        "old_vanity": "",
+        "new_vanity": "",
+        "old_email": "",
+        "new_email": "andykuck196@yahoo.com",
+        "new_number": ""
+      }
+    }
+  ]
+}

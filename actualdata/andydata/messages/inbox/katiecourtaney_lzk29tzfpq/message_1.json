@@ -1,0 +1,88 @@
+{
+  "participants": [
+    {
+      "name": "Katie Courtaney"
+    },
+    {
+      "name": "Andy Kuck"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Andy Kuck",
+      "timestamp_ms": 1529033119167,
+      "content": "Say hello to Katie.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Katie Courtaney",
+      "timestamp_ms": 1522370536531,
+      "content": "Unfortunately no- had plans to at one point but they fell through. Next year hopefully!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andy Kuck",
+      "timestamp_ms": 1522361694406,
+      "content": "Haha yeah - we tried to warn him. But he was set on being a homeowner. So did you hit the slopes during your first winter in CO?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Katie Courtaney",
+      "timestamp_ms": 1522357400143,
+      "content": "Oh gotcha ya that would be a bummer if he\u00e2\u0080\u0099s not wanting to live there!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andy Kuck",
+      "timestamp_ms": 1522334151282,
+      "content": "Yeah, probably. Ricky bought a house in Elkhart earlier this year, a purchase I think he's starting to regret. So he'll probably try to rent it out, but first he has to find someone who's willing to live in Elkhart.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Katie Courtaney",
+      "timestamp_ms": 1522331562451,
+      "content": "Very cool. Are you guys thinking of just finishing the year out and moving back this summer?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andy Kuck",
+      "timestamp_ms": 1522293107277,
+      "content": "Yeah, I'm teaching, same as Ricky Ramos, who is also thinking of moving back to Valpo; we both miss it. Good to hear things are going well out there - I'm always a little envious of people who live close to mountains.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Katie Courtaney",
+      "timestamp_ms": 1522251249634,
+      "content": "It\u00e2\u0080\u0099s a long term thing for now! Loving it out here. So much to do and finally feel like I\u00e2\u0080\u0099ve found a solid group of friends through my church so things are coming together. But yep- found a job in a private practice out here and it\u00e2\u0080\u0099s been really great. Am I remembering right that you\u00e2\u0080\u0099re teaching? Cause you were finishing your masters right? That\u00e2\u0080\u0099d be cool if you moved back to valpo, it\u00e2\u0080\u0099s a great place!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andy Kuck",
+      "timestamp_ms": 1522250573964,
+      "content": "Colorado! I knew you had mentioned that - I wasn't sure if it was long or short term. Do you have a speech pathologist job out there? I'm good - living in Chicago now and thinking of moving back to Valpo. I've regretted not getting to know you better when I was in Valpo before; I was really hoping to see you sometime soon. And I still would, though I guess it will be a bit more difficult if you live in CO.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Katie Courtaney",
+      "timestamp_ms": 1522209510781,
+      "content": "Hey!! Things are great how are you? I\u00e2\u0080\u0099m actually living out in CO, moved here last July!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andy Kuck",
+      "timestamp_ms": 1522193112704,
+      "content": "Katie, how have you been? Are you living in Valpo now?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Katie Courtaney",
+      "timestamp_ms": 1522192389005,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Katie Courtaney",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/KatieCourtaney_lzK29TZfpQ"
+}

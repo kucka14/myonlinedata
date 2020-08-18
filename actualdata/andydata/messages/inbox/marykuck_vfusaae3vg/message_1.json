@@ -1,0 +1,52 @@
+{
+  "participants": [
+    {
+      "name": "Mary Kuck"
+    },
+    {
+      "name": "Andy Kuck"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Andy Kuck",
+      "timestamp_ms": 1501707999878,
+      "content": "Haha I guess your students will have to learn enough English for you to be able to ask them to fix it for you.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mary Kuck",
+      "timestamp_ms": 1501689728460,
+      "content": "I made the mistake, however, of saying my own language was Portuguese, just to see how it would be for the students, and now I can't change it to English! This is a problem because I don't actually speak Portuguese. That will teach me not to lie to the computer.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andy Kuck",
+      "timestamp_ms": 1501641637220,
+      "content": "Cool! It does seem pretty popular, and I think it's pretty fun to use",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mary Kuck",
+      "timestamp_ms": 1501638820529,
+      "content": "I passed the website on to my students and discovered they already had the app!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andy Kuck",
+      "timestamp_ms": 1501262940114,
+      "content": "Yeah, it's Duolingo (duolingo.com). I like the style they use, but I'll be curious what you think.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mary Kuck",
+      "timestamp_ms": 1501166699687,
+      "content": "Hi Andy, so nice to see you at the lake! Could you tell me again the name of the program you were using to learn Spanish? Thanks, Mary",
+      "type": "Generic"
+    }
+  ],
+  "title": "Mary Kuck",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/MaryKuck_VfUsaaE3vg"
+}

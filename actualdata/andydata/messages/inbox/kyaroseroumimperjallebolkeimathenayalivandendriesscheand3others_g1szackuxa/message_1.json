@@ -1,0 +1,160 @@
+{
+  "participants": [
+    {
+      "name": "Kya Rose Roumimper"
+    },
+    {
+      "name": "Jalle Bolkeim"
+    },
+    {
+      "name": "Athena Yali VandenDriessche"
+    },
+    {
+      "name": "Andy Kuck"
+    },
+    {
+      "name": "Albert Tharpe III"
+    },
+    {
+      "name": "Facebook User"
+    },
+    {
+      "name": "Stanity Jorju"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Ivan Medina-amely",
+      "timestamp_ms": 1531399011599,
+      "content": "Ivan Medina-amely left the group.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Ivan Medina-amely"
+        }
+      ]
+    },
+    {
+      "sender_name": "Kylie Scoville",
+      "timestamp_ms": 1531362731283,
+      "content": "Kylie Scoville left the group.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Kylie Scoville"
+        }
+      ]
+    },
+    {
+      "sender_name": "Agnes Albert",
+      "timestamp_ms": 1531361265605,
+      "content": "Agnes Albert left the group.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Agnes Albert"
+        }
+      ]
+    },
+    {
+      "sender_name": "Agnes Albert",
+      "timestamp_ms": 1531361167128,
+      "content": "The video chat ended.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Agnes Albert",
+      "timestamp_ms": 1531361143768,
+      "content": "Agnes joined the video chat.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Agnes Albert",
+      "timestamp_ms": 1531361143147,
+      "content": "Agnes started a video chat.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ewa Kaz",
+      "timestamp_ms": 1497300223325,
+      "content": "Ewa Kaz left the group.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Ewa Kaz"
+        }
+      ]
+    },
+    {
+      "sender_name": "Martha Anger",
+      "timestamp_ms": 1497299389212,
+      "content": "Martha Anger left the group.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Martha Anger"
+        }
+      ]
+    },
+    {
+      "sender_name": "Derick Joynes",
+      "timestamp_ms": 1497295822461,
+      "content": "Derick Joynes left the group.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Derick Joynes"
+        }
+      ]
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1497280281084,
+      "content": "A contact left the group.",
+      "type": "Unsubscribe",
+      "users": [
+        
+      ]
+    },
+    {
+      "sender_name": "Stanity Jorju",
+      "timestamp_ms": 1497263691453,
+      "content": "The video chat ended.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ivan Medina-amely",
+      "timestamp_ms": 1497263665897,
+      "content": "Ivan joined the video chat.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Stanity Jorju",
+      "timestamp_ms": 1497263651473,
+      "content": "Stanity joined the video chat.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Stanity Jorju",
+      "timestamp_ms": 1497263651408,
+      "content": "Stanity started a video chat.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Stanity Jorju",
+      "timestamp_ms": 1497261944658,
+      "content": "Stanity changed the group photo.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Stanity Jorju",
+      "timestamp_ms": 1497261898335,
+      "content": "Stanity created the group.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Kya Rose Roumimper, Jalle Bolkeim, Athena Yali VandenDriessche and 3 others",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "inbox/KyaRoseRoumimperJalleBolkeimAthenaYaliVandenDriesscheand3others_G1SZackuXA"
+}

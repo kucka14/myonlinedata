@@ -1,0 +1,46 @@
+{
+  "participants": [
+    {
+      "name": "Kejla Kesler"
+    },
+    {
+      "name": "Andy Kuck"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Kejla Kesler",
+      "timestamp_ms": 1541640171878,
+      "content": "You and Kejla Kesler are celebrating 3 years of friendship on Facebook",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kejla Kesler",
+      "timestamp_ms": 1529049145565,
+      "content": "Kesler is waving at you!",
+      "type": "Share"
+    },
+    {
+      "sender_name": "Kejla Kesler",
+      "timestamp_ms": 1529049141231,
+      "content": "Kesler is waving at you!",
+      "type": "Share"
+    },
+    {
+      "sender_name": "Kejla Kesler",
+      "timestamp_ms": 1517273666643,
+      "content": "Kesler is waving at you!",
+      "type": "Share"
+    },
+    {
+      "sender_name": "Kejla Kesler",
+      "timestamp_ms": 1510850087982,
+      "content": ":o Andy Kuck eres tu? :o",
+      "type": "Generic"
+    }
+  ],
+  "title": "Kejla Kesler",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/KejlaKesler_kmpU_yEcdw"
+}

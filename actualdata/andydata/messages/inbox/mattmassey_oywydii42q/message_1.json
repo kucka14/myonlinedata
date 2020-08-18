@@ -1,0 +1,22 @@
+{
+  "participants": [
+    {
+      "name": "Matt Massey"
+    },
+    {
+      "name": "Andy Kuck"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Matt Massey",
+      "timestamp_ms": 1472413218822,
+      "content": "Matt sent an attachment.",
+      "type": "Share"
+    }
+  ],
+  "title": "Matt Massey",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/MattMassey_oywYDii42Q"
+}

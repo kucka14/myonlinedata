@@ -1,0 +1,22 @@
+{
+  "participants": [
+    {
+      "name": "Margit Christenson"
+    },
+    {
+      "name": "Andy Kuck"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Margit Christenson",
+      "timestamp_ms": 1558310277508,
+      "content": "You celebrated a friendversary with a friend.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Margit Christenson",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/MargitChristenson_beD6-m2mXw"
+}

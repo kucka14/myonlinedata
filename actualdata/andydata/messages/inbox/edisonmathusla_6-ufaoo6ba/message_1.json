@@ -1,0 +1,189 @@
+{
+  "participants": [
+    {
+      "name": "Edison Mathusla"
+    },
+    {
+      "name": "Andy Kuck"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Andy Kuck",
+      "timestamp_ms": 1557097439309,
+      "content": "Great! I hope they help the team run fast!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Edison Mathusla",
+      "timestamp_ms": 1556941769931,
+      "content": "Hi Andy Thanks for those shoes ,I already get the box !",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Edison Mathusla",
+      "timestamp_ms": 1543970517999,
+      "content": "Thanks Andy",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andy Kuck",
+      "timestamp_ms": 1543968243160,
+      "content": "Edison, sorry, I forgot about the shoes. But then I found some used shoes recently and I sent a box that should get there around Christmas. Let me know if it gets there, and also if you need any more different kinds of shoes. I'll send them sooner next time.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andy Kuck",
+      "timestamp_ms": 1535498253977,
+      "content": "No problem",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Edison Mathusla",
+      "timestamp_ms": 1535497299920,
+      "content": "Thanks Andy",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andy Kuck",
+      "timestamp_ms": 1535497287712,
+      "content": "Ok, thanks! I'll let you know if I find some shoes",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Edison Mathusla",
+      "timestamp_ms": 1535497233386,
+      "content": "P.O Box 1312",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andy Kuck",
+      "timestamp_ms": 1535497170239,
+      "content": "OK, I'll start asking people, and I'll try to send a box with different sizes. If I find some, what PO Box should I send the shoes to?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Edison Mathusla",
+      "timestamp_ms": 1535496981503,
+      "content": "Boths",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Edison Mathusla",
+      "timestamp_ms": 1535496974179,
+      "content": "Botha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Edison Mathusla",
+      "timestamp_ms": 1535496970800,
+      "content": "Botha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andy Kuck",
+      "timestamp_ms": 1535496955460,
+      "content": "I can ask some people and try to send a box of shoes. Is it for the older runners or the young kids?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Edison Mathusla",
+      "timestamp_ms": 1535496831628,
+      "content": "Hi Andy anybody can donates shoes for ours team ?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andy Kuck",
+      "timestamp_ms": 1529033118957,
+      "content": "Say hello to Edison.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andy Kuck",
+      "timestamp_ms": 1527260314848,
+      "content": "Cool, that's great! Good luck if I don't see you before you leave for Saipan",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Edison Mathusla",
+      "timestamp_ms": 1527187145379,
+      "content": "Yes I\u00e2\u0080\u0099m still coaching this coming June I\u00e2\u0080\u0099ll take one team to Saipan and on July I\u00e2\u0080\u0099ll take another team to Yap state",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andy Kuck",
+      "timestamp_ms": 1527173749973,
+      "content": "Are you still coaching the track team? Let me know if you need any help this summer",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Edison Mathusla",
+      "timestamp_ms": 1526993598769,
+      "content": "Yes Andy I\u00e2\u0080\u0099m still here in Laura",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andy Kuck",
+      "timestamp_ms": 1526958781987,
+      "content": "Edison, how are you doing? I will be coming to Laura this summer. Are you still in Laura? I'm looking forward to seeing everyone.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andy Kuck",
+      "timestamp_ms": 1502042951396,
+      "content": "Wow! I didn't think you were actually there. So you got to watch the races?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Edison Mathusla",
+      "timestamp_ms": 1502042860887,
+      "content": "But I'm here in London for world championship",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Edison Mathusla",
+      "timestamp_ms": 1502042841203,
+      "content": "Oh they all make PB",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andy Kuck",
+      "timestamp_ms": 1502042793198,
+      "content": "How did the Oceania games go? I saw the team picture and I didn't recognize most of the athletes but I saw Johnson",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andy Kuck",
+      "timestamp_ms": 1502042694995,
+      "content": "Go Justin!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Edison Mathusla",
+      "timestamp_ms": 1502042484438,
+      "content": "Justin Gathlin",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Edison Mathusla",
+      "timestamp_ms": 1502042459400,
+      "photos": [
+        {
+          "uri": "messages/inbox/EdisonMathusla_6-uFAoO6BA/photos/20707190_2024123264541017_1909706354_o_2024123264541017.jpg",
+          "creation_timestamp": 1502042458
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andy Kuck",
+      "timestamp_ms": 1498088939306,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Edison Mathusla",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/EdisonMathusla_6-uFAoO6BA"
+}

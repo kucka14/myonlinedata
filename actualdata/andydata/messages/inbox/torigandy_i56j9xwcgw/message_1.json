@@ -1,0 +1,22 @@
+{
+  "participants": [
+    {
+      "name": "Tori Gandy"
+    },
+    {
+      "name": "Andy Kuck"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tori Gandy",
+      "timestamp_ms": 1528232286457,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Tori Gandy",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/ToriGandy_i56J9xWcGw"
+}

@@ -1,0 +1,22 @@
+{
+  "participants": [
+    {
+      "name": "Brooke Wilke"
+    },
+    {
+      "name": "Andy Kuck"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Andy Kuck",
+      "timestamp_ms": 1483448417842,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Brooke Wilke",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/BrookeWilke_Ibj3trS8qg"
+}

@@ -1,0 +1,22 @@
+{
+  "participants": [
+    {
+      "name": "Johnny Marok Mwekto Labin"
+    },
+    {
+      "name": "Andy Kuck"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Johnny Marok Mwekto Labin",
+      "timestamp_ms": 1491494785879,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Johnny Marok Mwekto Labin",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/JohnnyMarokMwektoLabin_NSLhBLdxhw"
+}

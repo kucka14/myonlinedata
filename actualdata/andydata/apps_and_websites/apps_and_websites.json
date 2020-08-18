@@ -1,0 +1,32 @@
+{
+  "installed_apps": [
+    {
+      "name": "The Boston Globe",
+      "added_timestamp": 1592146729
+    },
+    {
+      "name": "Airbnb",
+      "added_timestamp": 1577064969
+    },
+    {
+      "name": "Meetup",
+      "added_timestamp": 1566669280
+    },
+    {
+      "name": "Spotify",
+      "added_timestamp": 1562415566
+    },
+    {
+      "name": "Tinder",
+      "added_timestamp": 1522623413
+    },
+    {
+      "name": "Pinterest",
+      "added_timestamp": 1510869344
+    },
+    {
+      "name": "Brilliant",
+      "added_timestamp": 1482181845
+    }
+  ]
+}

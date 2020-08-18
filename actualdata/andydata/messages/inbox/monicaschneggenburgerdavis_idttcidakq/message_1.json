@@ -1,0 +1,33 @@
+{
+  "participants": [
+    {
+      "name": "Monica Schneggenburger-Davis"
+    },
+    {
+      "name": "Andy Kuck"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Andy Kuck",
+      "timestamp_ms": 1591142680179,
+      "content": "Thanks for info! I hope all is well with you.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Monica Schneggenburger-Davis",
+      "timestamp_ms": 1591131009427,
+      "photos": [
+        {
+          "uri": "messages/inbox/MonicaSchneggenburgerDavis_IdttCIDaKQ/photos/51565908_646406302459017_1753529688329814016_n_1164944093871023.jpg",
+          "creation_timestamp": 1591131008
+        }
+      ],
+      "type": "Generic"
+    }
+  ],
+  "title": "Monica Schneggenburger-Davis",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/MonicaSchneggenburgerDavis_IdttCIDaKQ"
+}

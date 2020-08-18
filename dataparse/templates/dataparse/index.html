@@ -1,0 +1,95 @@
+<!doctype html>
+<html lang="en">
+	<head>
+		<!-- Required meta tags -->
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+		<!-- Bootstrap CSS -->
+		<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
+		<link rel="stylesheet" href="/static/dataparse/css/stylea.css">
+		
+		<title>Facebook Data View</title>
+	</head>
+	<body>
+	
+		<div class="top-container">
+			<div class="top-left">
+			
+				<div class="inner-box-left">
+					<div class="titlea">Upload Data Here</div>
+					
+					<form action='' method='post' enctype='multipart/form-data'>
+						{% csrf_token %}
+						<div class="formbox">
+							<div class="forma">
+							| {{ form }} |
+							</div>
+							<div class="formb">
+							<input type='submit' value='Submit'>
+							</div>
+						</div>
+					</form>
+				</div>
+			</div>
+			
+			
+			
+			<div class="top-right">
+				
+				{% if output_dict != '' %}
+				
+				<button class="expand-icon-1" onclick="slide('left')"><<</button>
+				<button class="expand-icon-2" onclick="slide('right')">>></button>
+				
+				<div class="inner-box-right-second">
+					<div class="scroll-box">
+						<h4>Off Facebook Activity</h4>
+						{% for key,values in output_dict.off_facebook_output.items %}
+							<p><strong>{{ key }}</strong>
+								{% for vlist in values %}
+								<br>
+								{{ vlist.2 }} at {{ vlist.1 }} on {{ vlist.0 }}
+								{% endfor %}</p>
+						{% endfor %}
+						
+					
+					
+						
+						
+						
+					</div>
+					<div style="text-align: center;">
+					<a href="/">
+					<button class="clear-btn">Clear</button>
+					</a>
+					</div>
+				</div>
+				{% else %}
+				<div class="inner-box-right-first">
+					<h3>Viewing Your Facebook Data</h3>
+					<ol>
+						{% for i in 'aaaaaaaaaa' %}
+						<li>Go to your Facebook account.</li>
+						<li>Click on the </li>
+						{% endfor %}
+					</ol>
+					
+				</div>
+				{% endif %}
+			</div>
+			
+		</div>
+		
+		<div class="bottom-container">
+			Hello
+		</div>
+
+		<!-- Optional JavaScript -->
+		<script src="/static/dataparse/js/scripta.js"></script>
+		<!-- jQuery first, then Popper.js, then Bootstrap JS -->
+		<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+		<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
+		<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous"></script>
+	</body>
+</html>

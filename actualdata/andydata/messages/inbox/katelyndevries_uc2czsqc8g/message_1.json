@@ -1,0 +1,22 @@
+{
+  "participants": [
+    {
+      "name": "Katelyn DeVries"
+    },
+    {
+      "name": "Andy Kuck"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Andy Kuck",
+      "timestamp_ms": 1488772171280,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Katelyn DeVries",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/KatelynDeVries_uC2CZSqc8g"
+}

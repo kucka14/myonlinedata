@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "Kari-Anne Innes"
+    },
+    {
+      "name": "Andy Kuck"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Kari-Anne Innes",
+      "timestamp_ms": 1510113115113,
+      "content": "Just wanted to remind you about this show and auditions on Sat. A few Shrew people will be there!",
+      "share": {
+        "link": "https://www.facebook.com/events/506540639704974/"
+      },
+      "type": "Share"
+    }
+  ],
+  "title": "Kari-Anne Innes",
+  "is_still_participant": true,
+  "thread_type": "Pending",
+  "thread_path": "message_requests/KariAnneInnes_CXq4MnMy9Q"
+}

@@ -1,0 +1,22 @@
+{
+  "participants": [
+    {
+      "name": "Katie Kirk"
+    },
+    {
+      "name": "Andy Kuck"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Katie Kirk",
+      "timestamp_ms": 1498837263817,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Katie Kirk",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/KatieKirk_jgFPcnks2w"
+}

@@ -1,0 +1,196 @@
+{
+  "preferences": [
+    {
+      "name": "See First",
+      "description": "Profiles and Pages you've chosen to see first in your news feed",
+      "entries": [
+        {
+          "timestamp": 1509922302,
+          "data": {
+            "name": "Just Write Chicago",
+            "uri": "https://www.facebook.com/JustWriteChicago/"
+          }
+        },
+        {
+          "timestamp": 1502668565,
+          "data": {
+            "name": "NCTM - National Council of Teachers of Mathematics",
+            "uri": "https://www.facebook.com/TeachersofMathematics/"
+          }
+        },
+        {
+          "timestamp": 1502667627,
+          "data": {
+            "name": "TED-Ed",
+            "uri": "https://www.facebook.com/TEDEducation/"
+          }
+        },
+        {
+          "timestamp": 1471178534,
+          "data": {
+            "name": "Marshall Islands Red Cross Society",
+            "uri": "https://www.facebook.com/RMIRC/"
+          }
+        },
+        {
+          "timestamp": 1471178533,
+          "data": {
+            "name": "Marshall Islands Journal",
+            "uri": "https://www.facebook.com/Marshall-Islands-Journal-125166150860782/"
+          }
+        },
+        {
+          "timestamp": 1471178517,
+          "data": {
+            "name": "Marshall Islands National Olympic Committee",
+            "uri": "https://www.facebook.com/MarshallIslandsNOC/"
+          }
+        },
+        {
+          "timestamp": 1471178508,
+          "data": {
+            "name": "El Mariq",
+            "uri": "https://www.facebook.com/abu.a.alghamdi"
+          }
+        },
+        {
+          "timestamp": 1471178494,
+          "data": {
+            "name": "James Kleimola",
+            "uri": "https://www.facebook.com/james.kleimola"
+          }
+        },
+        {
+          "timestamp": 1471178444,
+          "data": {
+            "name": "Arne Christenson",
+            "uri": "https://www.facebook.com/arne.christenson"
+          }
+        },
+        {
+          "timestamp": 1471178441,
+          "data": {
+            "name": "Grete Christenson Willis",
+            "uri": "https://www.facebook.com/grete.willis"
+          }
+        },
+        {
+          "timestamp": 1471178392,
+          "data": {
+            "name": "Deacon Noah Thelen",
+            "uri": "https://www.facebook.com/thelenni"
+          }
+        },
+        {
+          "timestamp": 1471178350,
+          "data": {
+            "name": "Laurie Kuck",
+            "uri": "https://www.facebook.com/laurie.kuck.3"
+          }
+        },
+        {
+          "timestamp": 1471178349,
+          "data": {
+            "name": "Mary Kuck",
+            "uri": "https://www.facebook.com/mary.kuck"
+          }
+        },
+        {
+          "timestamp": 1471178336,
+          "data": {
+            "name": "Mark Brick",
+            "uri": "https://www.facebook.com/mark.christenson.37"
+          }
+        },
+        {
+          "timestamp": 1471178334,
+          "data": {
+            "name": "John Christenson",
+            "uri": "https://www.facebook.com/john.christenson.33"
+          }
+        },
+        {
+          "timestamp": 1471178314,
+          "data": {
+            "name": "Josh Kuck",
+            "uri": "https://www.facebook.com/jkuck7140"
+          }
+        },
+        {
+          "timestamp": 1471178311,
+          "data": {
+            "name": "Evan Kuck",
+            "uri": "https://www.facebook.com/ekuck"
+          }
+        },
+        {
+          "timestamp": 1471178299,
+          "data": {
+            "name": "Madith Valdez-ferolino",
+            "uri": "https://www.facebook.com/madith.valdezferolino"
+          }
+        },
+        {
+          "timestamp": 1471178283,
+          "data": {
+            "name": "Christa Kuck",
+            "uri": "https://www.facebook.com/profile.php?id=100010576144184"
+          }
+        },
+        {
+          "timestamp": 1471178281,
+          "data": {
+            "name": "Daishiro  Taniguchi",
+            "uri": "https://www.facebook.com/daishiro.taniguchi"
+          }
+        },
+        {
+          "timestamp": 1471178276,
+          "data": {
+            "name": "Edison Mathusla",
+            "uri": "https://www.facebook.com/edison.mathusla"
+          }
+        },
+        {
+          "timestamp": 1471178265,
+          "data": {
+            "name": "Brandon Piotrzkowski",
+            "uri": "https://www.facebook.com/brandon.piotrzkowski"
+          }
+        },
+        {
+          "timestamp": 1471178257,
+          "data": {
+            "name": "Jason Kuck",
+            "uri": "https://www.facebook.com/jason.kuck.3"
+          }
+        }
+      ]
+    },
+    {
+      "name": "Page Notifications",
+      "description": "Chat notifications you've dismissed from Pages you visit",
+      "entries": [
+        {
+          "timestamp": 1558042236,
+          "data": {
+            "name": "June Saavedra :: Real Estate Broker, Listing Leaders",
+            "uri": "https://www.facebook.com/LLJuneSaavedra/"
+          }
+        }
+      ]
+    },
+    {
+      "name": "Language Settings",
+      "description": "Your preferred language settings history",
+      "entries": [
+        {
+          "timestamp": 1389632230,
+          "data": {
+            "name": "en_US"
+          }
+        }
+      ]
+    }
+  ]
+}

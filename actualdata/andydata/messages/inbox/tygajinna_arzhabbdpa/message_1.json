@@ -1,0 +1,22 @@
+{
+  "participants": [
+    {
+      "name": "Tyga Jinna"
+    },
+    {
+      "name": "Andy Kuck"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tyga Jinna",
+      "timestamp_ms": 1523933230274,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Tyga Jinna",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/TygaJinna_arzHABBdpA"
+}

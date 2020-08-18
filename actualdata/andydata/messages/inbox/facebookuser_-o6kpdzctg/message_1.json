@@ -1,0 +1,92 @@
+{
+  "participants": [
+    {
+      "name": "Facebook User"
+    },
+    {
+      "name": "Andy Kuck"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1472717731031,
+      "content": "Thanks Andy! I just started part three the other night, so I will forward that on when I finish it.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andy Kuck",
+      "timestamp_ms": 1472700421859,
+      "content": "Just read It Takes a Predator. This one I really like. You have me very interested in Khan. It seems like he might try to avenge Thompson, but I'm not sure. I really like his mysterious 2022 entries. I was confused that Thompson says to Terry that Terry had a grudge against him. It makes it sound like they knew each other, and I'm not sure what that history would have been. Maybe I missed something. Or maybe there's a Terry-Thompson-White-Syria connection, and Terry and White have a history. At any rate, you've got me very interested in Priest White and some of the other characters' background stories",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1472241820729,
+      "content": "So this is the sequel to Abouna, Abouna. Let me know what you think!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andy Kuck",
+      "timestamp_ms": 1471231061097,
+      "content": "sounds good",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1471203133845,
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1471203128287,
+      "content": "Thanks Andy! I actually do want to revise this one a bit and work on it more. If it changes substantially I will send you the second draft!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andy Kuck",
+      "timestamp_ms": 1471201647803,
+      "content": "I just read The Tale of Billy McCrae. I really enjoyed it. I thought it was especially powerful that Billy weeps for his horse, a random casualty of all the senseless violence. My suggestions are: 1) The line \"I got no intent of showing mercy this night\" seemed a little odd because Billy does initially show mercy to that klansman. 2) When Tom laments \"killing my own kin,\" I didn't really feel for him, probably because I've heard hundreds of times that Civil War soldiers had to kill their own kin. I was wondering if he could say something that demonstrates more specifically that he knew the regiments he was fighting against. 3) I feel like there should be something in one of Tom and Billy's first two conversations that shows that they grew up together, other than their common knowledge of Old Jim - maybe an old friend that Bill is curious about, or something like that. Just ideas; I pretty much like the story the way it is. I like your Westerns much more than some of the New Yorker fiction pieces I read where it seems like you have to be borderline delusional to think the story is actually about something.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andy Kuck",
+      "timestamp_ms": 1470957299311,
+      "content": "I think you're right about my account getting hacked. Someone else told me the same thing. I have now changed my password, so I think it will be the real me from here on out. Hopefully you got my thoughts on Abouna Abouna and Justice. And as soon as I read The Tale of Billy McCrae I'll let you know what I think.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1470691034534,
+      "content": "Your account got hacked a while ago I think. Is this the real you?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1467099529838,
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andy Kuck",
+      "timestamp_ms": 1467083521448,
+      "content": "I read Abouna, Abouna. It was very fun to read. For me, though, Terry is almost too mysterious of a character. And when he appears at the end, it seems like maybe he had been watching the priest strangle Peter from the shadows. But I don't have a better way to do it, and I still really liked the ending. Peter kind of makes me think of DeNiro in Taxi Driver, except Peter never seems that angry. Maybe that's what you wanted. To me Peter just doesn't seem angry enough to actually attempt to carry out his plan. It was good though; the priest was kind of bizarre but a really interesting character. Justice I had read before; I like it probably more than Abouna Abouna. When I read it before I thought the sheriff wasn't prominent enough, but that didn't seem like a problem when I read it this time. It makes me wanna read another Western. I had let The Good The Bad and The Ugly turn me off to the whole genre.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp_ms": 1465511261255,
+      "content": "Sounds good!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andy Kuck",
+      "timestamp_ms": 1465511234849,
+      "content": "My email is kucka@mail.gvsu.edu, if you do wanna send me that story. I'll let you know what I think of it. And if I write anything I actually like, maybe I'll send it your way.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Facebook User",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/FacebookUser_-o6KpDZcTg"
+}

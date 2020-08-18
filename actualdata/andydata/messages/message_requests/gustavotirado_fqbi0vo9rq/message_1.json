@@ -1,0 +1,40 @@
+{
+  "participants": [
+    {
+      "name": "Gustavo Tirado"
+    },
+    {
+      "name": "Andy Kuck"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Gustavo Tirado",
+      "timestamp_ms": 1560145631406,
+      "content": "Hello this is me Gustavo from your first period I miss school and your class alot",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gustavo Tirado",
+      "timestamp_ms": 1560145571430,
+      "content": "Kuck",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gustavo Tirado",
+      "timestamp_ms": 1560145566160,
+      "content": "Is this luck residence",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gustavo Tirado",
+      "timestamp_ms": 1560145542793,
+      "content": "Hello",
+      "type": "Generic"
+    }
+  ],
+  "title": "Gustavo Tirado",
+  "is_still_participant": true,
+  "thread_type": "Pending",
+  "thread_path": "message_requests/GustavoTirado_FqBi0vo9RQ"
+}

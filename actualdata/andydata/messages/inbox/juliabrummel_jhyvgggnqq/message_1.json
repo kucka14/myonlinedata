@@ -1,0 +1,22 @@
+{
+  "participants": [
+    {
+      "name": "Julia Brummel"
+    },
+    {
+      "name": "Andy Kuck"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Julia Brummel",
+      "timestamp_ms": 1489850863297,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Julia Brummel",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/JuliaBrummel_jhYvgggNQQ"
+}

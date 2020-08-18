@@ -1,0 +1,38 @@
+{
+  "group_interactions": [
+    {
+      "name": "",
+      "description": "",
+      "entries": [
+        {
+          "data": {
+            "name": "The Taming of the Shrew",
+            "value": "10 times",
+            "uri": "https://www.facebook.com/groups/1801076240207444/"
+          }
+        },
+        {
+          "data": {
+            "name": "495 W14",
+            "value": "1 time",
+            "uri": "https://www.facebook.com/groups/502420626538053/"
+          }
+        },
+        {
+          "data": {
+            "name": "Central IL Critique Group",
+            "value": "1 time",
+            "uri": "https://www.facebook.com/groups/250931562106157/"
+          }
+        },
+        {
+          "data": {
+            "name": "UCO Grand Rapids",
+            "value": "1 time",
+            "uri": "https://www.facebook.com/groups/UCOGrandRapids/"
+          }
+        }
+      ]
+    }
+  ]
+}

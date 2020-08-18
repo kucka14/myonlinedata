@@ -1,0 +1,263 @@
+{
+  "participants": [
+    {
+      "name": "Ricky Ramos"
+    },
+    {
+      "name": "Andy Kuck"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Ricky Ramos",
+      "timestamp_ms": 1562875821641,
+      "content": "Are you in grand rapids?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ricky Ramos",
+      "timestamp_ms": 1562875814217,
+      "content": "Hey Andy",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ricky Ramos",
+      "timestamp_ms": 1529033136327,
+      "content": "Yo Andy!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ricky Ramos",
+      "timestamp_ms": 1499280107480,
+      "content": "Okay that sounds good. Yeah I arrive tomorrow!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andy Kuck",
+      "timestamp_ms": 1499277295652,
+      "content": "You get back this week, right?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andy Kuck",
+      "timestamp_ms": 1499277281886,
+      "content": "Yeah, that's fine. And my brother insisted on me paying $1500 for both of us. You had the flight change, but then I spent more of my brother's money after we split with you, so I say we just split the $1500: $750 each.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ricky Ramos",
+      "timestamp_ms": 1499240138260,
+      "content": "Hi Andy, hope everything's going well with your play and future plans for teaching. I was looking into my bank account and realised that it would be difficult to pay you all together at once since I'm low on money. Is it okay if I pay you separately? I can pay you some once I see you and the rest when I get paid from school. Let me know if that's okay with you",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ricky Ramos",
+      "timestamp_ms": 1498486647821,
+      "content": "Yeah I'll be going alone. I will start planning tomorrow when I go to Geneva, Switzerland. I'm afraid it's going to be quite expensive so I'm thinking of buying or renting a tent and camping on my own",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andy Kuck",
+      "timestamp_ms": 1498484690844,
+      "content": "I guess once you go to the Alps once, you just always want to go back. That sounds pretty awesome, but make sure you know what you're doing. Are you going alone?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ricky Ramos",
+      "timestamp_ms": 1498416695397,
+      "content": "I'm excited yet worried",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ricky Ramos",
+      "timestamp_ms": 1498416651907,
+      "content": "I'm thinking of spending a whole week in the Swiss Alps",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ricky Ramos",
+      "timestamp_ms": 1498166954811,
+      "content": "Ohh I realize how difficulty that would actually be hah. I won't do it anymore because I won't have much time also. But thanks!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andy Kuck",
+      "timestamp_ms": 1498161607595,
+      "content": "Cool. Yeah, that was probably good not to hike the mountain alone. And $850 is fine, if you want to do that. See you in a couple weeks. And good luck if you decide to bike Portugal",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ricky Ramos",
+      "timestamp_ms": 1498149371676,
+      "content": "Thanks for his name by the way. And also I think you're being too generous about the cost. I'll give you $850.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ricky Ramos",
+      "timestamp_ms": 1498149317729,
+      "content": "Hi Andy! Right now I am in Barcelona, I arrived last night. Salzburg was so much fun and I got to hang out with some of my friends. I was going to risk my life again and hike a mountain all alone until it started to storm real bad. I took that as a sign to sit that one out.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andy Kuck",
+      "timestamp_ms": 1498089638431,
+      "content": "And the slovenian hiker is Vasja Legi\u00c5\u00a1a, if you want to add him on facebook",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andy Kuck",
+      "timestamp_ms": 1498089569383,
+      "content": "So did you make it to Salsburg alright? Where are you now? Me and Jason did one more day of hiking in the mountains. And a cute Slovenian girl offered Jason a job at one of the mountain huts, but he turned it down. I'm back in Valpo now. Jason's in Croatia. For money, I'm going to give Jason $1600 for both of us. But that includes money we spent in Croatia, so if you give me $750, that will be good, if that sounds fair. Hope everything's working out - don't fall off any more mountains",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andy Kuck",
+      "timestamp_ms": 1496495884188,
+      "content": "yup",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ricky Ramos",
+      "timestamp_ms": 1496495874754,
+      "content": "It's 3.1 miles correct?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ricky Ramos",
+      "timestamp_ms": 1496495865086,
+      "content": "Maybe next time.. I'll run around here and make up my own trial",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ricky Ramos",
+      "timestamp_ms": 1496495840830,
+      "content": "Haha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andy Kuck",
+      "timestamp_ms": 1496495809752,
+      "content": "yeah. right up the road at the park by meridian and highway 6. you could come and try to sneak in",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ricky Ramos",
+      "timestamp_ms": 1496495735593,
+      "content": "Is it a 5K?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andy Kuck",
+      "timestamp_ms": 1496495701656,
+      "content": "go for it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ricky Ramos",
+      "timestamp_ms": 1496495624989,
+      "content": "But really, Good luck. I think I might go for a run as well around that time just to pretend. I'll be there in spirit! Ha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ricky Ramos",
+      "timestamp_ms": 1496495555616,
+      "content": "Like a bullet he was",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ricky Ramos",
+      "timestamp_ms": 1496495545771,
+      "content": "Yeah that man can gun it out in the field",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andy Kuck",
+      "timestamp_ms": 1496495501896,
+      "content": "And don't forget Thomas \"The Tank\" Jefferson",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ricky Ramos",
+      "timestamp_ms": 1496495371278,
+      "content": "Yeah.. among the greatest but never as good as Washington",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andy Kuck",
+      "timestamp_ms": 1496495261174,
+      "content": "I'll remember that. No one could run like old Woody",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ricky Ramos",
+      "timestamp_ms": 1496495191403,
+      "content": "Remember what good old Woody would say.. run like there's no tomorrow",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ricky Ramos",
+      "timestamp_ms": 1496495160585,
+      "content": "Nice, good luck!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andy Kuck",
+      "timestamp_ms": 1496495143407,
+      "content": "leaving in a few minutes. race is at 9",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ricky Ramos",
+      "timestamp_ms": 1496495117258,
+      "content": "Did you run already?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andy Kuck",
+      "timestamp_ms": 1496495107221,
+      "content": "Hey!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ricky Ramos",
+      "timestamp_ms": 1496495074054,
+      "content": "Hey!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ricky Ramos",
+      "timestamp_ms": 1490098533135,
+      "photos": [
+        {
+          "uri": "messages/inbox/RickyRamos_y6dpyOctlQ/photos/17430671_418066845213138_1015532717_o_418066881879801.jpg",
+          "creation_timestamp": 1490098533
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ricky Ramos",
+      "timestamp_ms": 1489243333221,
+      "content": "Haha that's fine",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andy Kuck",
+      "timestamp_ms": 1489214262515,
+      "content": "Hi. I don't know how to do one of those super hero things",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ricky Ramos",
+      "timestamp_ms": 1489213905413,
+      "sticker": {
+        "uri": "messages/stickers_used/10734288_738555219552538_1485598727_n_738555216219205.png"
+      },
+      "type": "Generic"
+    }
+  ],
+  "title": "Ricky Ramos",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/RickyRamos_y6dpyOctlQ"
+}

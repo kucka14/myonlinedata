@@ -1,0 +1,64 @@
+{
+  "participants": [
+    {
+      "name": "Michael Sterling"
+    },
+    {
+      "name": "Andy Kuck"
+    },
+    {
+      "name": "Ricky Ramos"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Ricky Ramos",
+      "timestamp_ms": 1543547165083,
+      "content": "Hahaha I'm on it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Sterling",
+      "timestamp_ms": 1543546318559,
+      "content": "See if you can get those robots in Elkhart to build us an rv",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ricky Ramos",
+      "timestamp_ms": 1543546208064,
+      "content": "I'm all in lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ricky Ramos",
+      "timestamp_ms": 1543546202047,
+      "content": "Let's do it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Sterling",
+      "timestamp_ms": 1543545951022,
+      "content": "Thoughts?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Sterling",
+      "timestamp_ms": 1543545936969,
+      "content": "Andy",
+      "share": {
+        "link": "https://www.wideopencountry.com/map-shows-best-route-u-s-national-park-road-trip/"
+      },
+      "type": "Share"
+    },
+    {
+      "sender_name": "Michael Sterling",
+      "timestamp_ms": 1543545936211,
+      "content": "Michael created the group.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Michael Sterling and Ricky Ramos",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "inbox/MichaelSterlingandRickyRamos_Mz5ox4lTYQ"
+}

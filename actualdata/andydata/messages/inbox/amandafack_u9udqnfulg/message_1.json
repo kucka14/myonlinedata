@@ -1,0 +1,22 @@
+{
+  "participants": [
+    {
+      "name": "Amanda Fack"
+    },
+    {
+      "name": "Andy Kuck"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Amanda Fack",
+      "timestamp_ms": 1536882230972,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Amanda Fack",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/AmandaFack_u9UdQnFuLg"
+}

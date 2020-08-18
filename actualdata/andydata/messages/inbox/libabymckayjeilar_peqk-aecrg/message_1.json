@@ -1,0 +1,40 @@
+{
+  "participants": [
+    {
+      "name": "LiBaby Mckay Jeilar"
+    },
+    {
+      "name": "Andy Kuck"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "LiBaby Mckay Jeilar",
+      "timestamp_ms": 1498127264102,
+      "content": "LiBaby sent an attachment.",
+      "type": "Share"
+    },
+    {
+      "sender_name": "LiBaby Mckay Jeilar",
+      "timestamp_ms": 1498127263984,
+      "content": "LiBaby Mckay Jeilar sent you an invite to join Messenger.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "LiBaby Mckay Jeilar",
+      "timestamp_ms": 1498127258278,
+      "content": "Hii Andy",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andy Kuck",
+      "timestamp_ms": 1498088943804,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "LiBaby Mckay Jeilar",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/LiBabyMckayJeilar_peqk-AECRg"
+}
