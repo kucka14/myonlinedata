@@ -4,87 +4,87 @@
 		<!-- Required meta tags -->
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-
 		<!-- Bootstrap CSS -->
 		<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
 		<link rel="stylesheet" href="/static/dataparse/css/stylea.css">
-		
 		<title>Facebook Data View</title>
 	</head>
 	<body>
-	
 		<div class="top-container">
+		
 			<div class="top-left">
-			
 				<div class="inner-box-left">
-					<div class="titlea">Upload Data Here</div>
-					
+					<h3>Upload Data Here</h3>
 					<form action='' method='post' enctype='multipart/form-data'>
 						{% csrf_token %}
-						<div class="formbox">
-							<div class="forma">
-							| {{ form }} |
-							</div>
-							<div class="formb">
-							<input type='submit' value='Submit'>
-							</div>
+						<div class="forma">
+						| {{ form }} |
 						</div>
+						<input type='submit' value='Submit'>
 					</form>
 				</div>
 			</div>
 			
-			
-			
-			<div class="top-right">
-				
-				{% if output_dict != '' %}
-				
-				<button class="expand-icon-1" onclick="slide('left')"><<</button>
-				<button class="expand-icon-2" onclick="slide('right')">>></button>
-				
-				<div class="inner-box-right-second">
-					<div class="scroll-box">
-						<h4>Off Facebook Activity</h4>
-						{% for key,values in output_dict.off_facebook_output.items %}
-							<p><strong>{{ key }}</strong>
-								{% for vlist in values %}
-								<br>
-								{{ vlist.2 }} at {{ vlist.1 }} on {{ vlist.0 }}
-								{% endfor %}</p>
-						{% endfor %}
-						
-					
-					
-						
-						
-						
-					</div>
-					<div style="text-align: center;">
-					<a href="/">
-					<button class="clear-btn">Clear</button>
-					</a>
-					</div>
-				</div>
-				{% else %}
-				<div class="inner-box-right-first">
-					<h3>Viewing Your Facebook Data</h3>
-					<ol>
-						{% for i in 'aaaaaaaaaa' %}
-						<li>Go to your Facebook account.</li>
-						<li>Click on the </li>
-						{% endfor %}
-					</ol>
-					
-				</div>
-				{% endif %}
+			{% if output_dict == '' %}
+			<div class="top-right-first">
+				<h3 class="instruction-title">Viewing Your Facebook Data</h3>
+				<ol>
+					{% for i in 'aaaaaaa' %}
+					<li>Go to your Facebook accountlsakjflksdjflsjdl.</li>
+					<li>Click on the </li>
+					{% endfor %}
+				</ol>
 			</div>
 			
+			{% else %}
+			<div class="top-right-second">
+				<button class="expand-icon-1" onclick="slide('left')"><<</button>
+				<button class="expand-icon-2" onclick="slide('right')">>></button>
+				<div class="inner-box-right">
+				
+					<div class="fade-panel">
+						<ul class="nav nav-tabs nav-fix">
+							<li class="nav-item">
+								<a onclick="scrollToTop()" href="#home" class="nav-link active" data-toggle="tab">Home</a>
+							</li>
+							<li class="nav-item">
+								<a onclick="scrollToTop()" href="#profile" class="nav-link" data-toggle="tab">Profile</a>
+							</li>
+							<li class="nav-item">
+								<a onclick="scrollToTop()" href="#messages" class="nav-link" data-toggle="tab">Messages</a>
+							</li>
+						</ul>
+					</div>
+						
+					<div class="tab-content">
+						<div class="tab-pane fade show active data-pane" id="home">
+							<h4>Off Facebook Activity</h4>
+							{% for key,values in output_dict.off_facebook_output.items %}
+								<p><strong>{{ key }}</strong>
+									{% for vlist in values %}
+									<br>
+									{{ vlist.2 }} at {{ vlist.1 }} on {{ vlist.0 }}
+									{% endfor %}</p>
+							{% endfor %}
+						</div>
+						<div class="tab-pane fade data-pane" id="profile">
+							<h4>Off Facebook Activity</h4>
+							hello
+						</div>
+						<div class="tab-pane fade data-pane" id="messages">
+							<p>Messages tab content ...</p>
+						</div>
+					</div>
+					
+				</div>
+			</div>
+			{% endif %}
 		</div>
 		
 		<div class="bottom-container">
 			Hello
 		</div>
-
+		
 		<!-- Optional JavaScript -->
 		<script src="/static/dataparse/js/scripta.js"></script>
 		<!-- jQuery first, then Popper.js, then Bootstrap JS -->
