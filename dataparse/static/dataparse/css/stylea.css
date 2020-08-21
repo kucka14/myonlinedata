@@ -1,3 +1,6 @@
+a:hover {
+  cursor: pointer; }
+
 .top-container {
   display: flex;
   min-height: 100vh;
@@ -73,11 +76,34 @@
   background: linear-gradient(#03494a 70%, transparent); }
 
 .nav-fix {
+  max-width: 415px;
   margin-top: 15px; }
 
 .data-pane {
   margin-top: 70px;
   border-right: 1px solid white; }
+
+.mytabs {
+  color: white; }
+
+.mytabs:hover {
+  color: white; }
+
+.blanktab {
+  width: calc(100vw - 275px);
+  max-width: 150px; }
+
+.cleartab {
+  color: white; }
+
+.cleartab:hover {
+  color: black;
+  border: none;
+  border-radius: 0px;
+  background-color: orange; }
+
+.data-description {
+  color: lightgrey; }
 
 @media screen and (max-width: 900px) {
   .top-container {

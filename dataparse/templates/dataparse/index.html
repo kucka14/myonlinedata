@@ -45,33 +45,44 @@
 					<div class="fade-panel">
 						<ul class="nav nav-tabs nav-fix">
 							<li class="nav-item">
-								<a onclick="scrollToTop()" href="#home" class="nav-link active" data-toggle="tab">Home</a>
+								<a onclick="tabData=scrollSwitch(1);" id="tab-one" data-target="#tabone" class="nav-link mytabs active">OFA</a>
 							</li>
 							<li class="nav-item">
-								<a onclick="scrollToTop()" href="#profile" class="nav-link" data-toggle="tab">Profile</a>
+								<a onclick="tabData=scrollSwitch(2);" id="tab-two" data-target="#tabtwo" class="nav-link mytabs">CDU</a>
 							</li>
 							<li class="nav-item">
-								<a onclick="scrollToTop()" href="#messages" class="nav-link" data-toggle="tab">Messages</a>
+								<a onclick="tabData=scrollSwitch(3);" id="tab-three" data-target="#tabthree" class="nav-link mytabs">YSH</a>
+							</li>
+							<li class="blanktab">
+							</li>
+							<li class="nav-item">
+								<a href="/" class="nav-link cleartab">Clear</a>
 							</li>
 						</ul>
 					</div>
 						
 					<div class="tab-content">
-						<div class="tab-pane fade show active data-pane" id="home">
-							<h4>Off Facebook Activity</h4>
+						<div class="tab-pane fade show data-pane active" id="tabone">
+							<div class="data-description">
+							<h4 style="margin-bottom:0px;">Off Facebook Activity</h4>
+							<i>Data that other companies shared with Facebook</i>
+							<div style="height:15px;"></div>
+							</div>
 							{% for key,values in output_dict.off_facebook_output.items %}
-								<p><strong>{{ key }}</strong>
-									{% for vlist in values %}
-									<br>
-									{{ vlist.2 }} at {{ vlist.1 }} on {{ vlist.0 }}
-									{% endfor %}</p>
+							<p>
+								<strong>{{ key }}</strong>
+								{% for vlist in values %}
+								<br>
+								{{ vlist.2 }} at {{ vlist.1 }} on {{ vlist.0 }}
+								{% endfor %}
+							</p>
 							{% endfor %}
 						</div>
-						<div class="tab-pane fade data-pane" id="profile">
+						<div class="tab-pane fade data-pane" id="tabtwo">
 							<h4>Off Facebook Activity</h4>
 							hello
 						</div>
-						<div class="tab-pane fade data-pane" id="messages">
+						<div class="tab-pane fade data-pane" id="tabthree">
 							<p>Messages tab content ...</p>
 						</div>
 					</div>
@@ -85,11 +96,21 @@
 			Hello
 		</div>
 		
-		<!-- Optional JavaScript -->
-		<script src="/static/dataparse/js/scripta.js"></script>
 		<!-- jQuery first, then Popper.js, then Bootstrap JS -->
 		<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
 		<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
 		<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous"></script>
+		<!-- My JavaScript -->
+		<script src="/static/dataparse/js/scripta.js"></script>
+		
 	</body>
 </html>
+
+
+
+
+
+
+
+
+
