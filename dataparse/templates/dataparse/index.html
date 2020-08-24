@@ -27,45 +27,52 @@
 			
 			{% if output_dict == '' %}
 			<div class="top-right-first">
-				<h3 class="instruction-title">Viewing Your Facebook Data</h3>
-				<ol>
-					{% for i in 'aaaaaaa' %}
-					<li>Go to your Facebook accountlsakjflksdjflsjdl.</li>
-					<li>Click on the </li>
-					{% endfor %}
-				</ol>
+				<div class="instruction-box">
+					<h3 class="instruction-title">Viewing Your Facebook Data</h3>
+					<div class="instruction-list">
+						<ol>
+							{% for i in 'aaaaaaaaa' %}
+							<li>Go to your Facebook accountlsakjflksdjflsjdl.</li>
+							<li>Click on the </li>
+							{% endfor %}
+						</ol>
+					</div>
+				</div>
 			</div>
 			
 			{% else %}
 			<div class="top-right-second">
 				<button class="expand-icon-1" onclick="slide('left')"><<</button>
 				<button class="expand-icon-2" onclick="slide('right')">>></button>
+				
+				<div class="fade-panel">
+					<ul class="nav nav-tabs nav-fix">
+						<li class="nav-item">
+							<a onclick="tabData=scrollSwitch(1);" id="tab-one" data-target="#tabone" class="nav-link mytabs active">OFA</a>
+						</li>
+						<li class="nav-item">
+							<a onclick="tabData=scrollSwitch(2);" id="tab-two" data-target="#tabtwo" class="nav-link mytabs">ADS</a>
+						</li>
+						<li class="nav-item">
+							<a onclick="tabData=scrollSwitch(3);" id="tab-three" data-target="#tabthree" class="nav-link mytabs">YSH</a>
+						</li>
+						<li class="blanktab">
+						</li>
+						<li class="nav-item">
+							<a href="/" class="nav-link cleartab">Clear</a>
+						</li>
+					</ul>
+					<div class="scroll-bar-block"></div>
+				</div>
+				
 				<div class="inner-box-right">
 				
-					<div class="fade-panel">
-						<ul class="nav nav-tabs nav-fix">
-							<li class="nav-item">
-								<a onclick="tabData=scrollSwitch(1);" id="tab-one" data-target="#tabone" class="nav-link mytabs active">OFA</a>
-							</li>
-							<li class="nav-item">
-								<a onclick="tabData=scrollSwitch(2);" id="tab-two" data-target="#tabtwo" class="nav-link mytabs">CDU</a>
-							</li>
-							<li class="nav-item">
-								<a onclick="tabData=scrollSwitch(3);" id="tab-three" data-target="#tabthree" class="nav-link mytabs">YSH</a>
-							</li>
-							<li class="blanktab">
-							</li>
-							<li class="nav-item">
-								<a href="/" class="nav-link cleartab">Clear</a>
-							</li>
-						</ul>
-					</div>
-						
 					<div class="tab-content">
 						<div class="tab-pane fade show data-pane active" id="tabone">
+							
 							<div class="data-description">
 							<h4 style="margin-bottom:0px;">Off Facebook Activity</h4>
-							<i>Data that other companies shared with Facebook</i>
+							<i>Data about you that other companies shared with Facebook</i>
 							<div style="height:15px;"></div>
 							</div>
 							{% for key,values in output_dict.off_facebook_output.items %}
@@ -77,13 +84,32 @@
 								{% endfor %}
 							</p>
 							{% endfor %}
+							
 						</div>
 						<div class="tab-pane fade data-pane" id="tabtwo">
-							<h4>Off Facebook Activity</h4>
-							hello
+							<div class="data-description">
+							<h4 style="margin-bottom:0px;">Advertiser Data Sharing</h4>
+							<i>All advertisers that shared your data with Facebook</i>
+							<div style="height:15px;"></div>
+							</div>
+							{% for item in output_dict.advertiser_upload_output %}
+								{{ item }}
+								<br>
+							{% endfor %}
 						</div>
 						<div class="tab-pane fade data-pane" id="tabthree">
-							<p>Messages tab content ...</p>
+							<div class="data-description">
+							<h4 style="margin-bottom:0px;">Your Search History</h4>
+							<i>Search data from you that Facebook has saved</i>
+							<div style="height:15px;"></div>
+							</div>
+							{% for item in output_dict.search_history_output %}
+								<p>
+								Time: {{ item.1 }} on {{ item.0 }}
+								<br>
+								Your Search: {{ item.2 }}
+								</p>
+							{% endfor %}
 						</div>
 					</div>
 					

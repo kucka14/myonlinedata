@@ -3,19 +3,19 @@ a:hover {
 
 .top-container {
   display: flex;
-  min-height: 100vh;
+  height: 100vh;
   color: white; }
 
 .top-left {
   display: flex;
   flex: 1;
   background-color: #331461;
-  justify-content: center; }
+  align-items: center;
+  justify-content: center;
+  overflow-x: hidden; }
 
 .inner-box-left {
   display: inline-block;
-  position: fixed;
-  top: calc(50vh - 66px);
   text-align: center; }
 
 .forma {
@@ -30,8 +30,18 @@ a:hover {
   align-items: center;
   justify-content: center; }
 
-.instruction-title {
+.instruction-box {
+  text-align: center;
+  max-width: 415px;
   margin-top: 15px;
+  margin-bottom: 15px;
+  overflow-y: auto; }
+
+.instruction-list {
+  display: inline-block;
+  text-align: left; }
+
+.instruction-title {
   margin-bottom: 15px; }
 
 .top-right-second {
@@ -41,7 +51,7 @@ a:hover {
   justify-content: center; }
 
 .expand-icon-1 {
-  position: fixed;
+  position: absolute;
   opacity: 0.5;
   width: 30px;
   height: 30px;
@@ -53,7 +63,7 @@ a:hover {
   color: white; }
 
 .expand-icon-2 {
-  position: fixed;
+  position: absolute;
   opacity: 0.5;
   width: 30px;
   height: 30px;
@@ -66,11 +76,14 @@ a:hover {
   color: white; }
 
 .inner-box-right {
-  width: 415px; }
+  max-width: 415px;
+  overflow-y: auto;
+  margin-top: 56px;
+  margin-bottom: 15px; }
 
 .fade-panel {
-  position: fixed;
-  width: 100%;
+  position: absolute;
+  max-width: 415px;
   height: 80px;
   top: 0px;
   background: linear-gradient(#03494a 70%, transparent); }
@@ -79,9 +92,15 @@ a:hover {
   max-width: 415px;
   margin-top: 15px; }
 
+.scroll-bar-block {
+  position: absolute;
+  right: 0px;
+  width: 12px;
+  height: 20px;
+  background: linear-gradient(#03494a, transparent); }
+
 .data-pane {
-  margin-top: 70px;
-  border-right: 1px solid white; }
+  margin-top: 15px; }
 
 .mytabs {
   color: white; }
@@ -103,11 +122,13 @@ a:hover {
   background-color: orange; }
 
 .data-description {
-  color: lightgrey; }
+  color: lightgrey;
+  margin-right: 15px; }
 
 @media screen and (max-width: 900px) {
   .top-container {
-    flex-direction: column; }
+    flex-direction: column;
+    height: auto; }
 
   .top-left {
     flex: 0;
@@ -115,15 +136,17 @@ a:hover {
     padding-bottom: 15px; }
 
   .inner-box-left {
-    position: relative;
     top: 0px; }
 
   .top-right-first {
-    flex: auto; }
+    flex: auto;
+    min-height: 100vh; }
 
   .top-right-second {
     flex: auto;
-    min-height: 100vh; }
+    min-height: 100vh;
+    flex-direction: column;
+    align-items: center; }
 
   .expand-icon-1 {
     display: none; }
@@ -132,6 +155,10 @@ a:hover {
     position: fixed;
     top: calc(50vh - 15px); }
 
+  .inner-box-right {
+    margin-top: 0px;
+    overflow-y: visible; }
+
   .fade-panel {
     position: sticky;
     padding-top: 15px; }
@@ -139,7 +166,12 @@ a:hover {
   .nav-fix {
     margin-top: 0px; }
 
+  .scroll-bar-block {
+    display: none; }
+
   .data-pane {
-    margin-top: -10px; } }
+    margin-top: -10px;
+    max-width: 412px;
+    border-right: 1px solid white; } }
 
 /*# sourceMappingURL=stylea.css.map */

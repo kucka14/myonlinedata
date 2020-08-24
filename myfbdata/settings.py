@@ -23,9 +23,9 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SECRET_KEY = 'eeaztp%=587(k56*#c-m)1*peew)4gwaj%hp@7&7#(4xe6%_s('
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
-ALLOWED_HOSTS = ['myfbdata.herokuapp.com',
+ALLOWED_HOSTS = ['myfacebookdata.herokuapp.com',
 				 '127.0.0.1',
 				 ]
 

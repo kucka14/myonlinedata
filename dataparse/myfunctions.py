@@ -5,6 +5,7 @@ import datetime
 files_list = [
 			 	['off_facebook_activity','ads_and_businesses/your_off-facebook_activity.json'],
 			 	['advertiser_uploads','ads_and_businesses/advertisers_who_uploaded_a_contact_list_with_your_information.json'],
+			 	['search_history','search_history/your_search_history.json'],
 			 ]
 
 def zip_to_dicts(uploaded_file):
@@ -23,7 +24,7 @@ def zip_to_dicts(uploaded_file):
 	return fbdata_dict
 	
 	
-
+	
 	
 def create_output_dict(fbdata_dict):
 	
@@ -41,6 +42,13 @@ def create_output_dict(fbdata_dict):
 	for item in fbdata_dict['advertiser_uploads']['custom_audiences']:
 		advertiser_uploads.append(item)
 		
+	search_history = []
+	for search in fbdata_dict['search_history']['searches']:
+		fulldate = datetime.datetime.fromtimestamp(search['timestamp'])
+		date = fulldate.strftime('%B %d, %Y')
+		time = fulldate.strftime('%I:%M %p')
+		search_history.append([date,time,search['attachments'][0]['data'][0]['text']])
+		
 #	search history
 #	about you - peer friend group
 #	about you - profiles visited
@@ -49,11 +57,11 @@ def create_output_dict(fbdata_dict):
 	output_dict = {
 				   'off_facebook_output':off_facebook_activity,
 				   'advertiser_upload_output':advertiser_uploads,
+				   'search_history_output':search_history,
 				  }
 	
 	return output_dict
 		
-			
 		
 		
 		
