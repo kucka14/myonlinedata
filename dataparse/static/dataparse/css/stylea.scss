@@ -44,16 +44,18 @@ a:hover {
 	max-width: 415px;
 	margin-top: 15px;
 	margin-bottom: 15px;
+	margin-left: 15px;
+	margin-right: 15px;
 	overflow-y: auto;
+}
+
+.instruction-title {
+	margin-bottom: 15px;
 }
 
 .instruction-list {
 	display: inline-block;
 	text-align: left;
-}
-
-.instruction-title {
-	margin-bottom: 15px;
 }
 
 .top-right-second {
@@ -97,6 +99,8 @@ a:hover {
 	overflow-y: auto;
 	margin-top: 56px;
 	margin-bottom: 15px;
+	margin-left: 15px;
+	margin-right: 15px;
 }
 
 .fade-panel {
