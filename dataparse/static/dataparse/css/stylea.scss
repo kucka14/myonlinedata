@@ -47,6 +47,7 @@ a:hover {
 	margin-left: 15px;
 	margin-right: 15px;
 	overflow-y: auto;
+	padding-right: 15px;
 }
 
 .instruction-title {
@@ -97,6 +98,7 @@ a:hover {
 .inner-box-right {
 	max-width: 415px;
 	overflow-y: auto;
+	padding-right: 5px;
 	margin-top: 56px;
 	margin-bottom: 15px;
 	margin-left: 15px;
@@ -112,8 +114,9 @@ a:hover {
 }
 
 .nav-fix {
-	max-width: 415px;
 	margin-top: 15px;
+	margin-right: 3px;
+	margin-left: 3px;
 }
 
 .scroll-bar-block {
@@ -126,6 +129,8 @@ a:hover {
 
 .data-pane {
 	margin-top: 15px;
+	padding-right: 3px;
+	overflow-wrap: break-word;
 }
 
 .mytabs {
@@ -137,8 +142,8 @@ a:hover {
 }
 
 .blanktab {
-	width: calc(100vw - 275px);
-	max-width: 150px;
+	width: calc(100vw - 281px);
+	max-width: 144px;
 }
 
 .cleartab {
@@ -215,15 +220,25 @@ a:hover {
 	
 	.data-pane {
 		margin-top: -10px;
-		max-width: 412px;
 		border-right: 1px solid white;
+		margin-right: 1px;
+	}
+}
+
+@media screen and (max-width: 415px) {
+	
+	.data-pane {
+		width: calc(100vw - 30px);
+	}
+	
+	.top-left {
+		font-size: 4vw;
 	}
 }
 
 .bottom-container {
 	
 }
-
 
 
 

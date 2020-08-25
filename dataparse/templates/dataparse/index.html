@@ -29,23 +29,23 @@
 			<div class="top-right-first">
 				<div class="instruction-box">
 					<h3 class="instruction-title">Viewing Your Facebook Data</h3>
-					<div class="instruction-list">
-						1. Login to your Facebook account.<br>
-						2. Click the down arrow in the upper right.<br>
-						3. Click <strong>Settings and Privacy</strong>, and then click <strong>Settings</strong>.<br>
-						4. Click <strong>Your Facebook Information</strong> on the left.<br>
-						5. Click the box for <strong>Download Your Information</strong>.<br>
-						6. Under <strong>Request Copy</strong> select:<br>&nbsp;&nbsp;&nbsp;&nbsp;
+					<ol class="instruction-list">
+						<li>Login to your Facebook account.</li>
+						<li>Click the down arrow in the upper right.</li>
+						<li>Click <strong>Settings and Privacy</strong>, and then click <strong>Settings</strong>.</li>
+						<li>Click <strong>Your Facebook Information</strong> on the left.</li>
+						<li>Click the box for <strong>Download Your Information</strong>.</li>
+						<li>Under <strong>Request Copy</strong> select:</li>
 							Date Range: <strong>All of my data</strong><br>&nbsp;&nbsp;&nbsp;&nbsp;
 							Format: <strong>JSON</strong> (this is not the default)<br>&nbsp;&nbsp;&nbsp;&nbsp;
 							Media Quality: <strong>High</strong><br>
-						7. Click <strong>Create File</strong> and then wait 3 to 10 minutes.<br>
-						8. Click <strong>Available Copies</strong>.<br>
-						9. When your data is available, click the <strong>Download</strong> button to download it.<br>
-						10. Enter your Facebook password and save the zip file to your computer.<br>
-						11. On this site, upload your Facebook zip file by clicking <strong>Browse...</strong>, then selecting the zip file from your computer, and then clicking <strong>Submit</strong>.<br>
-						12. After viewing your Facebook data, click <strong>Clear</strong> to completely clear it from our site.
-					</div>
+						<li>Click <strong>Create File</strong> and then wait 3 to 10 minutes.</li>
+						<li>Click <strong>Available Copies</strong>.</li>
+						<li>When your data is available, click the <strong>Download</strong> button to download it.</li>
+						<li>Enter your Facebook password and save the zip file to your computer.</li>
+						<li>On this site, upload your Facebook zip file by clicking <strong>Browse...</strong>, then selecting the zip file from your computer, and then clicking <strong>Submit</strong>.</li>
+						<li>After viewing your Facebook data, click <strong>Clear</strong> to completely clear it from our site.</li>
+					</ol>
 				</div>
 			</div>
 			
@@ -74,11 +74,11 @@
 					<div class="scroll-bar-block"></div>
 				</div>
 				
-				<div class="inner-box-right">
+				<div class="tab-content inner-box-right">
 				
-					<div class="tab-content">
+<!--					<div class="tab-content">-->
+					
 						<div class="tab-pane fade show data-pane active" id="tabone">
-							
 							<div class="data-description">
 							<h4 style="margin-bottom:0px;">Off Facebook Activity</h4>
 							<i>Data about you that other companies shared with Facebook</i>
@@ -93,8 +93,8 @@
 								{% endfor %}
 							</p>
 							{% endfor %}
-							
 						</div>
+						
 						<div class="tab-pane fade data-pane" id="tabtwo">
 							<div class="data-description">
 							<h4 style="margin-bottom:0px;">Advertiser Data Sharing</h4>
@@ -106,6 +106,7 @@
 								<br>
 							{% endfor %}
 						</div>
+						
 						<div class="tab-pane fade data-pane" id="tabthree">
 							<div class="data-description">
 							<h4 style="margin-bottom:0px;">Your Search History</h4>
@@ -120,8 +121,8 @@
 								</p>
 							{% endfor %}
 						</div>
-					</div>
-					
+						
+<!--					</div>-->
 				</div>
 			</div>
 			{% endif %}
