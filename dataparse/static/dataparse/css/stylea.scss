@@ -1,6 +1,21 @@
 $primary-color: #331461;
 $secondary-color: #03494a;
 
+.scrunch {
+	width:90vw;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+.policy {
+	background-color: $primary-color;
+	color:white;
+}
+
+.policy a {
+	color:#ccff00;
+}
+
 a:hover {
 	cursor: pointer;
 }
@@ -232,7 +247,7 @@ a:hover {
 	}
 	
 	.top-left {
-		font-size: 4vw;
+		font-size: 3.5vw;
 	}
 }
 

@@ -1,3 +1,15 @@
+.scrunch {
+  width: 90vw;
+  margin-left: auto;
+  margin-right: auto; }
+
+.policy {
+  background-color: #331461;
+  color: white; }
+
+.policy a {
+  color: #ccff00; }
+
 a:hover {
   cursor: pointer; }
 
@@ -187,6 +199,6 @@ a:hover {
     width: calc(100vw - 30px); }
 
   .top-left {
-    font-size: 4vw; } }
+    font-size: 3.5vw; } }
 
 /*# sourceMappingURL=stylea.css.map */
