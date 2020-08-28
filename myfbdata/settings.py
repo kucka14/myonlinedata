@@ -25,7 +25,7 @@ SECRET_KEY = 'eeaztp%=587(k56*#c-m)1*peew)4gwaj%hp@7&7#(4xe6%_s('
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['myfacebookdata.herokuapp.com',
+ALLOWED_HOSTS = ['myonlinedata.herokuapp.com',
 				 '127.0.0.1',
 				 ]
 
