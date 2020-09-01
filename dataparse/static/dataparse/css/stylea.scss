@@ -252,7 +252,18 @@ a:hover {
 }
 
 .bottom-container {
-	
+	padding-top: 10px;
+	padding-bottom: 10px;
+	background-color: gray;
+	text-align: center;
+}
+
+.bottom-container a {
+	color: $primary-color;
+}
+
+.bottom-container a:hover {
+	color: white;
 }
 
 

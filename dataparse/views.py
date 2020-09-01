@@ -22,3 +22,12 @@ def index(request):
 	return render(request,'dataparse/index.html',{'form':form,
 												  'output_dict':output_dict,
 												  })
+												  
+def privacy_policy(request):
+	return render(request, 'dataparse/privacy_policy.html')
+	
+def robots(request):
+	return render(request, 'dataparse/robots.txt')
+
+def sitemap(request):
+	return render(request, 'dataparse/sitemap.xml')

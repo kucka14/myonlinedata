@@ -27,6 +27,7 @@ DEBUG = False
 
 ALLOWED_HOSTS = ['myonlinedata.herokuapp.com',
 				 '127.0.0.1',
+				 'www.myonlinedata.org',
 				 ]
 
 
