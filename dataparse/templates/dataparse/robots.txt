@@ -1,1 +1,1 @@
-Sitemap: https://www.myonlinedata.org/sitemap.xml
+Sitemap: http://www.myonlinedata.org/sitemap.xml
